@@ -8,5 +8,16 @@
       "onFail": "download"
     }
   },
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "collect:oxlint": "node scripts/collect-oxlint-data.ts",
+    "test": "node --test test/**/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "execa": "^10.0.1",
+    "p-limit": "^7.3.1",
+    "typescript": "^7.0.2"
+  }
 }

@@ -1,0 +1,1175 @@
+{
+  "date": "2024-01-06T08:54:37.246Z",
+  "rules": [
+    {
+      "scope": "deepscan",
+      "value": "bad-array-method-on-arguments",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-char-at-comparison",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-comparison-sequence",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-object-literal-comparison",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-min-max-func",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-replace-all-arg",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "missing-throw",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "number-arg-out-of-range",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "uninvoked-array-callback",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "for-direction",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-async-promise-executor",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-caller",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-class-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-compare-neg-zero",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-cond-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-const-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-constant-binary-expression",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-constant-condition",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-control-regex",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-debugger",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-delete-var",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-class-members",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-else-if",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-keys",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-duplicate-case",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty-character-class",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty-pattern",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-ex-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-extra-boolean-cast",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-func-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-global-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-inner-declarations",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-irregular-whitespace",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-loss-of-precision",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-new-symbol",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-obj-calls",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-self-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-setter-return",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-shadow-restricted-names",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-sparse-arrays",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-finally",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-negation",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unused-labels",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unused-private-class-members",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-useless-catch",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-useless-escape",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-var",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "require-yield",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "use-isnan",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "valid-typeof",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-extra-non-null-assertion",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-misused-new",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-namespace",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-non-null-asserted-optional-chain",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-this-alias",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-unsafe-declaration-merging",
+      "category": "correctness"
+    },
+    {
+      "scope": "typescript",
+      "value": "prefer-as-const",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "expect-expect",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "no-conditional-expect",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "no-disabled-tests",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "no-export",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "no-focused-tests",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "no-standalone-expect",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "valid-describe-callback",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "valid-expect",
+      "category": "correctness"
+    },
+    {
+      "scope": "jest",
+      "value": "valid-title",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-document-cookie",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-empty-file",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-invalid-remove-event-listener",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-thenable",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-unnecessary-await",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-useless-fallback-in-spread",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-useless-length-check",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-useless-spread",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-set-size",
+      "category": "correctness"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-string-starts-ends-with",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "jsx-key",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "jsx-no-duplicate-props",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "jsx-no-useless-fragment",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "jsx-no-undef",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "no-children-prop",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "no-find-dom-node",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "no-render-return-value",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "no-string-refs",
+      "category": "correctness"
+    },
+    {
+      "scope": "react",
+      "value": "no-is-mounted",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "alt-text",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "anchor-has-content",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "anchor-is-valid",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "aria-props",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "aria-unsupported-elements",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "heading-has-content",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "html-has-lang",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "lang",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "iframe-has-title",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "img-redundant-alt",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "media-has-caption",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "mouse-events-have-key-events",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "no-access-key",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "no-aria-hidden-on-focusable",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "no-autofocus",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "prefer-tag-over-role",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "scope",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "tab-index-no-positive",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "aria-role",
+      "category": "correctness"
+    },
+    {
+      "scope": "jsx_a11y",
+      "value": "no-distracting-elements",
+      "category": "correctness"
+    },
+    {
+      "scope": "oxc",
+      "value": "const-comparisons",
+      "category": "correctness"
+    },
+    {
+      "scope": "oxc",
+      "value": "double-comparisons",
+      "category": "correctness"
+    },
+    {
+      "scope": "oxc",
+      "value": "erasing-op",
+      "category": "correctness"
+    },
+    {
+      "scope": "oxc",
+      "value": "only-used-in-recursion",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-bitwise-operator",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-bitwise",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-console",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-eval",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-regex-spaces",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-optional-chaining",
+      "category": "restriction"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-explicit-any",
+      "category": "restriction"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-var-requires",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-abusive-eslint-disable",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-array-reduce",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-array-for-each",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-nested-ternary",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-modern-math-apis",
+      "category": "restriction"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-number-properties",
+      "category": "restriction"
+    },
+    {
+      "scope": "react",
+      "value": "button-has-type",
+      "category": "restriction"
+    },
+    {
+      "scope": "react",
+      "value": "no-dangerously-set-inner-html",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "array-callback-return",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "eqeqeq",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-array-constructor",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-case-declarations",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-mixed-operators",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-prototype-builtins",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-return-await",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-self-compare",
+      "category": "pedantic"
+    },
+    {
+      "scope": "typescript",
+      "value": "ban-types",
+      "category": "pedantic"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-duplicate-enum-values",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "escape-case",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "explicit-length-check",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "new-for-builtins",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-hex-escape",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-instanceof-array",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-lonely-if",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-negated-condition",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-new-buffer",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-object-as-default-parameter",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-static-only-class",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-this-assignment",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-typeof-undefined",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-unreadable-iife",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-useless-promise-resolve-reject",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-useless-switch-case",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-array-flat",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-array-some",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-blob-reading-methods",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-code-point",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-date-now",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-dom-node-append",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-dom-node-dataset",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-dom-node-remove",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-event-target",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-math-trunc",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-native-coercion-functions",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-prototype-methods",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-query-selector",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-regexp-test",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-string-replace-all",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-string-slice",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-type-error",
+      "category": "pedantic"
+    },
+    {
+      "scope": "unicorn",
+      "value": "require-number-to-fixed-digits-argument",
+      "category": "pedantic"
+    },
+    {
+      "scope": "react",
+      "value": "no-unescaped-entities",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "default-case-last",
+      "category": "style"
+    },
+    {
+      "scope": "typescript",
+      "value": "adjacent-overload-signatures",
+      "category": "style"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-empty-interface",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "max-expects",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-alias-methods",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-confusing-set-timeout",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-deprecated-functions",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-done-callback",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-hooks",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-identical-title",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-interpolation-in-snapshots",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-jasmine-globals",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-mocks-import",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "no-test-prefixes",
+      "category": "style"
+    },
+    {
+      "scope": "jest",
+      "value": "prefer-todo",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "catch-error-name",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-node-protocol",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "empty-brace-spaces",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "error-message",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "filename-case",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-await-expression-member",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-console-spaces",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-null",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-unreadable-array-destructuring",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-zero-fractions",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "number-literal-case",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "numeric-separators-style",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-array-flat-map",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-dom-node-text-content",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-includes",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-logical-operator-over-ternary",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-modern-dom-apis",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-optional-catch-binding",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-reflect-apply",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-spread",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-string-trim-start-end",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "require-array-join-separator",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "switch-case-braces",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "text-encoding-identifier-case",
+      "category": "style"
+    },
+    {
+      "scope": "unicorn",
+      "value": "throw-new-error",
+      "category": "style"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty-static-block",
+      "category": "suspicious"
+    },
+    {
+      "scope": "typescript",
+      "value": "no-unnecessary-type-constraint",
+      "category": "suspicious"
+    },
+    {
+      "scope": "jest",
+      "value": "no-commented-out-tests",
+      "category": "suspicious"
+    },
+    {
+      "scope": "unicorn",
+      "value": "no-new-array",
+      "category": "suspicious"
+    },
+    {
+      "scope": "unicorn",
+      "value": "prefer-add-event-listener",
+      "category": "suspicious"
+    },
+    {
+      "scope": "react",
+      "value": "jsx-no-comment-text-nodes",
+      "category": "suspicious"
+    },
+    {
+      "scope": "react",
+      "value": "react-in-jsx-scope",
+      "category": "suspicious"
+    },
+    {
+      "scope": "oxc",
+      "value": "approx-constant",
+      "category": "suspicious"
+    },
+    {
+      "scope": "oxc",
+      "value": "misrefactored-assign-op",
+      "category": "suspicious"
+    },
+    {
+      "scope": "eslint",
+      "value": "constructor-super",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "getter-return",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-fallthrough",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-import-assign",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-redeclare",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-undef",
+      "category": "nursery"
+    },
+    {
+      "scope": "typescript",
+      "value": "ban-ts-comment",
+      "category": "nursery"
+    },
+    {
+      "scope": "typescript",
+      "value": "consistent-type-exports",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "default",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "named",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "no-cycle",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "no-self-import",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "no-amd",
+      "category": "nursery"
+    },
+    {
+      "scope": "import",
+      "value": "export",
+      "category": "nursery"
+    },
+    {
+      "scope": "oxc",
+      "value": "no-accumulating-spread",
+      "category": "perf"
+    }
+  ]
+}

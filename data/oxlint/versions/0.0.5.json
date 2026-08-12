@@ -1,0 +1,280 @@
+{
+  "date": "2023-07-01T09:26:40.587Z",
+  "rules": [
+    {
+      "scope": "deepscan",
+      "value": "bad-array-method-on-arguments",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-comparison-sequence",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-min-max-func",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-remove-event-listener",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "missing-throw",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "number-arg-out-of-range",
+      "category": "correctness"
+    },
+    {
+      "scope": "deepscan",
+      "value": "uninvoked-array-callback",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "for-direction",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-async-promise-executor",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-caller",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-case-declarations",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-class-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-compare-neg-zero",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-cond-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-const-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-constant-binary-expression",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-constant-condition",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-debugger",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-delete-var",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-class-members",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-else-if",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-dupe-keys",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-duplicate-case",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty-pattern",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-ex-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-func-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-inner-declarations",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-new-symbol",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-prototype-builtins",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-self-assign",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-setter-return",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-shadow-restricted-names",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-sparse-arrays",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-finally",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-negation",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unused-labels",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-useless-catch",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-useless-escape",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "require-yield",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "use-isnan",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "valid-typeof",
+      "category": "correctness"
+    },
+    {
+      "scope": "eslint",
+      "value": "array-callback-return",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "eq-eq-eq",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-array-constructor",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-mixed-operators",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-self-compare",
+      "category": "pedantic"
+    },
+    {
+      "scope": "eslint",
+      "value": "constructor-super",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "getter-return",
+      "category": "nursery"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-import-assign",
+      "category": "nursery"
+    },
+    {
+      "scope": "typescript",
+      "value": "isolated-declaration",
+      "category": "nursery"
+    },
+    {
+      "scope": "deepscan",
+      "value": "bad-bitwise-operator",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-bitwise",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-empty",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-eval",
+      "category": "restriction"
+    },
+    {
+      "scope": "eslint",
+      "value": "no-unsafe-optional-chaining",
+      "category": "restriction"
+    }
+  ]
+}
