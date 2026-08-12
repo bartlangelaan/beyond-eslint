@@ -1,0 +1,12 @@
+{
+  "name": "beyond-eslint",
+  "private": true,
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.21.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
