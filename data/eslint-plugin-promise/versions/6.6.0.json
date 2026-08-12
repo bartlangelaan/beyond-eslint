@@ -1,0 +1,140 @@
+{
+  "date": "2024-07-21T23:53:34.174Z",
+  "rules": [
+    {
+      "name": "always-return",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/always-return.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "avoid-new",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/avoid-new.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "catch-or-return",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/catch-or-return.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-callback-in-promise",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-callback-in-promise.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-multiple-resolved",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-multiple-resolved.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-native",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-native.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-nesting",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-nesting.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-new-statics",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-new-statics.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-promise-in-callback",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-promise-in-callback.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-return-in-finally",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-return-in-finally.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-return-wrap",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/no-return-wrap.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "param-names",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/param-names.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-await-to-callbacks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/prefer-await-to-callbacks.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-await-to-then",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/prefer-await-to-then.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-params",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-promise/blob/main/docs/rules/valid-params.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

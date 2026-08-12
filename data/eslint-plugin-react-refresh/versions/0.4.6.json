@@ -1,0 +1,14 @@
+{
+  "date": "2024-03-13T08:52:04.195Z",
+  "rules": [
+    {
+      "name": "only-export-components",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh#readme",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

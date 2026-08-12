@@ -1,0 +1,680 @@
+{
+  "date": "2025-11-05T13:43:11.350Z",
+  "rules": [
+    {
+      "name": "consistent-test-filename",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-test-filename.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-test-it",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-test-it.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-vitest-vi",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-vitest-vi.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "expect-expect",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/expect-expect.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "hoisted-apis-on-top",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/hoisted-apis-on-top.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "max-expects",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/max-expects.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "max-nested-describe",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/max-nested-describe.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-alias-methods",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-alias-methods.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-commented-out-tests",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-commented-out-tests.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-conditional-expect",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-expect.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-conditional-in-test",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-in-test.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-conditional-tests",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-tests.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-disabled-tests",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-disabled-tests.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-done-callback",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-done-callback.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-duplicate-hooks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-duplicate-hooks.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-focused-tests",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-focused-tests.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-hooks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-hooks.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-identical-title",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-identical-title.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-import-node-test",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-import-node-test.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-importing-vitest-globals",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-importing-vitest-globals.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-interpolation-in-snapshots",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-interpolation-in-snapshots.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-large-snapshots",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-large-snapshots.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-mocks-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-mocks-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-matchers",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-restricted-matchers.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-vi-methods",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-restricted-vi-methods.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-standalone-expect",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-standalone-expect.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-test-prefixes",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-test-prefixes.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-test-return-statement",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-test-return-statement.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-after-all-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-after-all-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-after-each-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-after-each-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-all",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-all.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-before-all-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-before-all-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-before-each-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-before-each-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-describe-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-describe-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-expect-groups",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-expect-groups.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "padding-around-test-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-test-blocks.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-called-exactly-once-with",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-exactly-once-with.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-called-once",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-once.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-called-times",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-times.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-called-with",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-with.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-comparison-matcher",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-comparison-matcher.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-describe-function-title",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-describe-function-title.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-each",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-each.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-equality-matcher",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-equality-matcher.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-expect-assertions",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-assertions.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-expect-resolves",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-resolves.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-expect-type-of",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-type-of.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-hooks-in-order",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-hooks-in-order.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-hooks-on-top",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-hooks-on-top.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-import-in-mock",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-import-in-mock.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-importing-vitest-globals",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-importing-vitest-globals.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-lowercase-title",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-lowercase-title.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-mock-promise-shorthand",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-mock-promise-shorthand.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-snapshot-hint",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-snapshot-hint.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-spy-on",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-spy-on.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-strict-boolean-matchers",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-strict-boolean-matchers.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-strict-equal",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-strict-equal.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-to-be",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-to-be-falsy",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-falsy.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-to-be-object",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-object.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-to-be-truthy",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-truthy.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-to-contain",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-contain.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-to-have-length",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-have-length.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-todo",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-todo.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-vi-mocked",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-vi-mocked.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-hook",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-hook.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-local-test-context-for-concurrent-snapshots",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-local-test-context-for-concurrent-snapshots.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-mock-type-parameters",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-mock-type-parameters.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-to-throw-message",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-to-throw-message.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-top-level-describe",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-top-level-describe.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-describe-callback",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-describe-callback.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-expect",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-expect.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-expect-in-promise",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-expect-in-promise.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-title",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-title.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "warn-todo",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/warn-todo.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

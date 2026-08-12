@@ -1,0 +1,41 @@
+{
+  "date": "2024-10-18T22:41:02.391Z",
+  "rules": [
+    {
+      "name": "jsx-no-jsx-as-prop",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/cvazac/eslint-plugin-react-perf#readme",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-new-array-as-prop",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/cvazac/eslint-plugin-react-perf#readme",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-new-function-as-prop",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/cvazac/eslint-plugin-react-perf#readme",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-new-object-as-prop",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/cvazac/eslint-plugin-react-perf#readme",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

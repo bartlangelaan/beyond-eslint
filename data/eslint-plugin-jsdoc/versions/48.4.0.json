@@ -1,0 +1,482 @@
+{
+  "date": "2024-06-24T11:57:29.997Z",
+  "rules": [
+    {
+      "name": "check-access",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-access.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-alignment",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-alignment.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-examples",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-examples.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-indentation",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-indentation.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-line-alignment",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-line-alignment.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-param-names",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-param-names.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-property-names",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-property-names.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-syntax",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-syntax.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-tag-names",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-tag-names.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-types.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "check-values",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/check-values.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "empty-tags",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/empty-tags.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "implements-on-classes",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/implements-on-classes.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "imports-as-dependencies",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/imports-as-dependencies.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "informative-docs",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/informative-docs.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "match-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/match-description.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "match-name",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/match-name.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "multiline-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/multiline-blocks.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-bad-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-bad-blocks.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-blank-block-descriptions",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-blank-block-descriptions.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-blank-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-blank-blocks.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-defaults",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-defaults.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-missing-syntax",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-missing-syntax.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-multi-asterisks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-multi-asterisks.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-syntax",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-restricted-syntax.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-types.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-undefined-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/no-undefined-types.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-asterisk-prefix",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-asterisk-prefix.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-description.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-description-complete-sentence",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-description-complete-sentence.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-example",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-example.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-file-overview",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-file-overview.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-hyphen-before-param-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-hyphen-before-param-description.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-jsdoc",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-jsdoc.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-param",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-param.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-param-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-param-description.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-param-name",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-param-name.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-param-type",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-param-type.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-property",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-property.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-property-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-property-description.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-property-name",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-property-name.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-property-type",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-property-type.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-returns",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-returns.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-returns-check",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-returns-check.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-returns-description",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-returns-description.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-returns-type",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-returns-type.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-throws",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-throws.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-yields",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-yields.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-yields-check",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/require-yields-check.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "sort-tags",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/sort-tags.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "tag-lines",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/tag-lines.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "text-escaping",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/text-escaping.md#repos-sticky-header",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "valid-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/gajus/eslint-plugin-jsdoc/blob/main/docs/rules/valid-types.md#repos-sticky-header",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

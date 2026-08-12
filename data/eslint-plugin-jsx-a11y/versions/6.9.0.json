@@ -1,0 +1,356 @@
+{
+  "date": "2024-06-20T06:18:52.442Z",
+  "rules": [
+    {
+      "name": "accessible-emoji",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/accessible-emoji.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "alt-text",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/alt-text.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "anchor-ambiguous-text",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/anchor-ambiguous-text.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "anchor-has-content",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/anchor-has-content.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "anchor-is-valid",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/anchor-is-valid.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "aria-activedescendant-has-tabindex",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/aria-activedescendant-has-tabindex.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "aria-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/aria-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "aria-proptypes",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/aria-proptypes.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "aria-role",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/aria-role.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "aria-unsupported-elements",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/aria-unsupported-elements.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "autocomplete-valid",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/autocomplete-valid.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "click-events-have-key-events",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/click-events-have-key-events.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "control-has-associated-label",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/main/docs/rules/control-has-associated-label.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "heading-has-content",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/heading-has-content.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "html-has-lang",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/html-has-lang.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "iframe-has-title",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/iframe-has-title.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "img-redundant-alt",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/img-redundant-alt.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "interactive-supports-focus",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/interactive-supports-focus.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "label-has-associated-control",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/main/docs/rules/label-has-associated-control.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "label-has-for",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/label-has-for.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "lang",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/lang.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "media-has-caption",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/media-has-caption.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "mouse-events-have-key-events",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/mouse-events-have-key-events.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-access-key",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-access-key.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-aria-hidden-on-focusable",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-aria-hidden-on-focusable.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-autofocus",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-autofocus.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-distracting-elements",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-distracting-elements.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-interactive-element-to-noninteractive-role",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-interactive-element-to-noninteractive-role.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-noninteractive-element-interactions",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-noninteractive-element-interactions.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-noninteractive-element-to-interactive-role",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-noninteractive-element-to-interactive-role.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-noninteractive-tabindex",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-noninteractive-tabindex.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-onchange",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-onchange.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-redundant-roles",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-redundant-roles.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-static-element-interactions",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/no-static-element-interactions.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-tag-over-role",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/prefer-tag-over-role.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "role-has-required-aria-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/role-has-required-aria-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "role-supports-aria-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/role-supports-aria-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "scope",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/scope.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "tabindex-no-positive",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/tree/HEAD/docs/rules/tabindex-no-positive.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

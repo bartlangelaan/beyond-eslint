@@ -1,0 +1,1211 @@
+{
+  "date": "2026-06-22T18:23:42.242Z",
+  "rules": [
+    {
+      "name": "adjacent-overload-signatures",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/adjacent-overload-signatures",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "array-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/array-type",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "await-thenable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/await-thenable",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "ban-ts-comment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/ban-ts-comment",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "ban-tslint-comment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/ban-tslint-comment",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "class-literal-property-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/class-literal-property-style",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "class-methods-use-this",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/class-methods-use-this",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-generic-constructors",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-generic-constructors",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-indexed-object-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-indexed-object-style",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-return",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-return",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-type-assertions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-type-assertions",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-type-definitions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-type-definitions",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-type-exports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-type-exports",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-type-imports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/consistent-type-imports",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "default-param-last",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/default-param-last",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "dot-notation",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/dot-notation",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "explicit-function-return-type",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/explicit-function-return-type",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "explicit-member-accessibility",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/explicit-member-accessibility",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "explicit-module-boundary-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/explicit-module-boundary-types",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "init-declarations",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/init-declarations",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "max-params",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/max-params",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "member-ordering",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/member-ordering",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "method-signature-style",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/method-signature-style",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "naming-convention",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/naming-convention",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-constructor",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-array-constructor",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-delete",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-array-delete",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-base-to-string",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-base-to-string",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-confusing-non-null-assertion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-confusing-non-null-assertion",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-confusing-void-expression",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-confusing-void-expression",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-deprecated",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-deprecated",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-dupe-class-members",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-dupe-class-members",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicate-enum-values",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-duplicate-enum-values",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicate-type-constituents",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-duplicate-type-constituents",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-dynamic-delete",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-dynamic-delete",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-empty-function",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-empty-function",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-empty-interface",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-empty-interface",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-empty-object-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-empty-object-type",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-explicit-any",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-explicit-any",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-extra-non-null-assertion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-extra-non-null-assertion",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-extraneous-class",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-extraneous-class",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-floating-promises",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-floating-promises",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-for-in-array",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-for-in-array",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-implied-eval",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-implied-eval",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-import-type-side-effects",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-import-type-side-effects",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-inferrable-types",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-inferrable-types",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-this",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-invalid-this",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-void-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-invalid-void-type",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-loop-func",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-loop-func",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-loss-of-precision",
+      "deprecated": true,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-loss-of-precision",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-magic-numbers",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-magic-numbers",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-meaningless-void-operator",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-meaningless-void-operator",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-misused-new",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-misused-new",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-misused-promises",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-misused-promises",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-misused-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-misused-spread",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-mixed-enums",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-mixed-enums",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-namespace",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-namespace",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-non-null-asserted-nullish-coalescing",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-non-null-asserted-nullish-coalescing",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-non-null-asserted-optional-chain",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-non-null-asserted-optional-chain",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-non-null-assertion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-non-null-assertion",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-redeclare",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-redeclare",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-redundant-type-constituents",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-redundant-type-constituents",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-require-imports",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-require-imports",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-imports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-restricted-imports",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-restricted-types",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-shadow",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-shadow",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-this-alias",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-this-alias",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-type-alias",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-type-alias",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-boolean-literal-compare",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-boolean-literal-compare",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-condition",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-condition",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unnecessary-parameter-property-assignment",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-parameter-property-assignment",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-qualifier",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-qualifier",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-template-expression",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-template-expression",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-type-arguments",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-type-arguments",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-type-assertion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-type-assertion",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-type-constraint",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-type-constraint",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unnecessary-type-conversion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-type-conversion",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unnecessary-type-parameters",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unnecessary-type-parameters",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unsafe-argument",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-argument",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-assignment",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-call",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-call",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-declaration-merging",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-declaration-merging",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-enum-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-enum-comparison",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unsafe-function-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-function-type",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-member-access",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-member-access",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-return",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-type-assertion",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-type-assertion",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-unary-minus",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unsafe-unary-minus",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-expressions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-unused-expressions",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-private-class-members",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unused-private-class-members",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-vars",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-unused-vars",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-use-before-define",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-use-before-define",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-constructor",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-useless-constructor",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-default-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-useless-default-assignment",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-empty-export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/no-useless-empty-export",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-var-requires",
+      "deprecated": true,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-var-requires",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-wrapper-object-types",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/no-wrapper-object-types",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "non-nullable-type-assertion-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/non-nullable-type-assertion-style",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "only-throw-error",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/only-throw-error",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "parameter-properties",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/parameter-properties",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-as-const",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-as-const",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-destructuring",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-destructuring",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-enum-initializers",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-enum-initializers",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-find",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-find",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-for-of",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-for-of",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-function-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-function-type",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-includes",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-includes",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-literal-enum-member",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-literal-enum-member",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-namespace-keyword",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-namespace-keyword",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-nullish-coalescing",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-nullish-coalescing",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-optional-chain",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-optional-chain",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-promise-reject-errors",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-promise-reject-errors",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-readonly",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-readonly",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-readonly-parameter-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-readonly-parameter-types",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-reduce-type-parameter",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/prefer-reduce-type-parameter",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-regexp-exec",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-regexp-exec",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-return-this-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-return-this-type",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-starts-ends-with",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/prefer-string-starts-ends-with",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-ts-expect-error",
+      "deprecated": true,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/prefer-ts-expect-error",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "promise-function-async",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/promise-function-async",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "related-getter-setter-pairs",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/related-getter-setter-pairs",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-array-sort-compare",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/require-array-sort-compare",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-await",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/require-await",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "restrict-plus-operands",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/restrict-plus-operands",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "restrict-template-expressions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/restrict-template-expressions",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "return-await",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/return-await",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "sort-type-constituents",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/sort-type-constituents",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "strict-boolean-expressions",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/strict-boolean-expressions",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "strict-void-return",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/strict-void-return",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "switch-exhaustiveness-check",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/switch-exhaustiveness-check",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "triple-slash-reference",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/triple-slash-reference",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "typedef",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/typedef",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "unbound-method",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://typescript-eslint.io/rules/unbound-method",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "unified-signatures",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/unified-signatures",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "use-unknown-in-catch-callback-variable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://typescript-eslint.io/rules/use-unknown-in-catch-callback-variable",
+      "fixable": false,
+      "hasSuggestions": true
+    }
+  ]
+}

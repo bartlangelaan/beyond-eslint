@@ -1,0 +1,914 @@
+{
+  "date": "2024-06-18T20:24:23.488Z",
+  "rules": [
+    {
+      "name": "boolean-prop-naming",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/boolean-prop-naming.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "button-has-type",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/button-has-type.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "checked-requires-onchange-or-readonly",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/checked-requires-onchange-or-readonly.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "default-props-match-prop-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/default-props-match-prop-types.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "destructuring-assignment",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/destructuring-assignment.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "display-name",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/display-name.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "forbid-component-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/forbid-component-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "forbid-dom-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/forbid-dom-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "forbid-elements",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/forbid-elements.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "forbid-foreign-prop-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/forbid-foreign-prop-types.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "forbid-prop-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/forbid-prop-types.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "function-component-definition",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/function-component-definition.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "hook-use-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/hook-use-state.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "iframe-missing-sandbox",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/iframe-missing-sandbox.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-boolean-value",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-boolean-value.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-child-element-spacing",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-child-element-spacing.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-closing-bracket-location",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-closing-bracket-location.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-closing-tag-location",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-closing-tag-location.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-curly-brace-presence",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-curly-brace-presence.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-curly-newline",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-curly-newline.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-curly-spacing",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-curly-spacing.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-equals-spacing",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-equals-spacing.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-filename-extension",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-filename-extension.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-first-prop-new-line",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-first-prop-new-line.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-fragments",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-fragments.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-handler-names",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-handler-names.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-indent",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-indent.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-indent-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-indent-props.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-key",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-key.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-max-depth",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-max-depth.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-max-props-per-line",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-max-props-per-line.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-newline",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-newline.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-bind",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-bind.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-comment-textnodes",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-comment-textnodes.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-constructed-context-values",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-constructed-context-values.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-duplicate-props",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-duplicate-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-leaked-render",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-leaked-render.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-literals",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-literals.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-script-url",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-script-url.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-target-blank",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-target-blank.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-undef",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-undef.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-no-useless-fragment",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-no-useless-fragment.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-one-expression-per-line",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-one-expression-per-line.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-pascal-case",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-pascal-case.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-props-no-multi-spaces",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-props-no-multi-spaces.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-props-no-spreading",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-props-no-spreading.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-sort-default-props",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-sort-default-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-sort-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-sort-props.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-space-before-closing",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-space-before-closing.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-tag-spacing",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-tag-spacing.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-uses-react",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-uses-react.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-uses-vars",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-uses-vars.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "jsx-wrap-multilines",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/jsx-wrap-multilines.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-access-state-in-setstate",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-access-state-in-setstate.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-adjacent-inline-elements",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-adjacent-inline-elements.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-index-key",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-array-index-key.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-arrow-function-lifecycle",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-arrow-function-lifecycle.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-children-prop",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-children-prop.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-danger",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-danger.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-danger-with-children",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-danger-with-children.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-deprecated",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-deprecated.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-did-mount-set-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-did-mount-set-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-did-update-set-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-did-update-set-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-direct-mutation-state",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-direct-mutation-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-find-dom-node",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-find-dom-node.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-html-attribute",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-invalid-html-attribute.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-is-mounted",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-is-mounted.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-multi-comp",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-multi-comp.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-namespace",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-namespace.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-object-type-as-default-prop",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-object-type-as-default-prop.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-redundant-should-component-update",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-redundant-should-component-update.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-render-return-value",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-render-return-value.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-set-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-set-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-string-refs",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-string-refs.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-this-in-sfc",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-this-in-sfc.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-typos",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-typos.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unescaped-entities",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unescaped-entities.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unknown-property",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unknown-property.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unsafe.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unstable-nested-components",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unstable-nested-components.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-class-component-methods",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unused-class-component-methods.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-prop-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unused-prop-types.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-unused-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-will-update-set-state",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/no-will-update-set-state.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-es6-class",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/prefer-es6-class.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-exact-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/prefer-exact-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-read-only-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/prefer-read-only-props.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-stateless-function",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/prefer-stateless-function.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prop-types",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/prop-types.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "react-in-jsx-scope",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/react-in-jsx-scope.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-default-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/require-default-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-optimization",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/require-optimization.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-render-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/require-render-return.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "self-closing-comp",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/self-closing-comp.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "sort-comp",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/sort-comp.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "sort-default-props",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/sort-default-props.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "sort-prop-types",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/sort-prop-types.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "state-in-constructor",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/state-in-constructor.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "static-property-placement",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/static-property-placement.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "style-prop-object",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/style-prop-object.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "void-dom-elements-no-children",
+      "deprecated": false,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules/void-dom-elements-no-children.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

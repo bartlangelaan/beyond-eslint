@@ -1,0 +1,374 @@
+{
+  "date": "2025-07-28T11:57:32.543Z",
+  "rules": [
+    {
+      "name": "callback-return",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/callback-return.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "exports-style",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/exports-style.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "file-extension-in-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/file-extension-in-import.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "global-require",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/global-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "handle-callback-err",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/handle-callback-err.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "hashbang",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/hashbang.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-callback-literal",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-callback-literal.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-deprecated-api",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-deprecated-api.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-exports-assign",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-exports-assign.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-extraneous-import",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-extraneous-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-extraneous-require",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-extraneous-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-hide-core-modules",
+      "deprecated": true,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-hide-core-modules.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-missing-import",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-missing-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-missing-require",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-missing-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-mixed-requires",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-mixed-requires.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-new-require",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-new-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-path-concat",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-path-concat.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-process-env",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-process-env.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-process-exit",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-process-exit.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-restricted-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-require",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-restricted-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-sync",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-sync.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-top-level-await",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-top-level-await.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unpublished-bin",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unpublished-bin.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unpublished-import",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unpublished-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unpublished-require",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unpublished-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsupported-features/es-builtins",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unsupported-features/es-builtins.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsupported-features/es-syntax",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unsupported-features/es-syntax.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsupported-features/node-builtins",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/no-unsupported-features/node-builtins.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/buffer",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/buffer.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/console",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/console.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/process",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/process.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/text-decoder",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/text-decoder.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/text-encoder",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/text-encoder.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/url",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/url.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global/url-search-params",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-global/url-search-params.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-node-protocol",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-node-protocol.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-promises/dns",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-promises/dns.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-promises/fs",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/prefer-promises/fs.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "process-exit-as-throw",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/process-exit-as-throw.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "shebang",
+      "deprecated": true,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/eslint-community/eslint-plugin-n/blob/HEAD/docs/rules/hashbang.md",
+      "fixable": true,
+      "hasSuggestions": false
+    }
+  ]
+}

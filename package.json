@@ -10,6 +10,7 @@
   },
   "type": "module",
   "scripts": {
+    "collect:eslint-plugins": "node scripts/collect-eslint-plugin-data.ts",
     "collect:oxlint": "node scripts/collect-oxlint-data.ts",
     "test": "node --test test/**/*.test.ts",
     "typecheck": "tsc --noEmit"

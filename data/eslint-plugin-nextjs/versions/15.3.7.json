@@ -1,0 +1,194 @@
+{
+  "date": "2025-12-11T20:59:09.076Z",
+  "rules": [
+    {
+      "name": "google-font-display",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/google-font-display",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "google-font-preconnect",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/google-font-preconnect",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "inline-script-id",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/inline-script-id",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "next-script-for-ga",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/next-script-for-ga",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-assign-module-variable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-assign-module-variable",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-async-client-component",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-async-client-component",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-before-interactive-script-outside-document",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-before-interactive-script-outside-document",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-css-tags",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-css-tags",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-document-import-in-page",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-document-import-in-page",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicate-head",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-duplicate-head",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-head-element",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-head-element",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-head-import-in-document",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-head-import-in-document",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-html-link-for-pages",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-html-link-for-pages",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-img-element",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-img-element",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-page-custom-font",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-page-custom-font",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-script-component-in-head",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-script-component-in-head",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-styled-jsx-in-document",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-styled-jsx-in-document",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-sync-scripts",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-sync-scripts",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-title-in-document-head",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-title-in-document-head",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-typos",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-typos",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unwanted-polyfillio",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://nextjs.org/docs/messages/no-unwanted-polyfillio",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

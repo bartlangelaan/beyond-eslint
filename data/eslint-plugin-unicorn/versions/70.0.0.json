@@ -1,0 +1,2993 @@
+{
+  "date": "2026-07-01T17:51:48.894Z",
+  "rules": [
+    {
+      "name": "better-dom-traversing",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/better-dom-traversing.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "better-regex",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#better-regex",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "catch-error-name",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/catch-error-name.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "class-reference-in-static-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/class-reference-in-static-methods.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "comment-content",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/comment-content.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-assert",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-assert.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-boolean-name",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-boolean-name.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-class-member-order",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-class-member-order.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-compound-words",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-compound-words.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-conditional-object-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-conditional-object-spread.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-date-clone",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-date-clone.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-destructuring",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-destructuring.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-empty-array-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-empty-array-spread.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-existence-index-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-existence-index-check.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-export-decorator-position",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-export-decorator-position.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-function-scoping",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-function-scoping.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-function-style",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-function-style.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-json-file-read",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-json-file-read.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-optional-chaining",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-optional-chaining.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "consistent-template-literal-escape",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-template-literal-escape.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "consistent-tuple-labels",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/consistent-tuple-labels.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "custom-error-definition",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/custom-error-definition.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "default-export-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/default-export-style.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "dom-node-dataset",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/dom-node-dataset.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "empty-brace-spaces",
+      "deprecated": false,
+      "recommended": true,
+      "type": "layout",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/empty-brace-spaces.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "error-message",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/error-message.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "escape-case",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/escape-case.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "expiring-todo-comments",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/expiring-todo-comments.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "explicit-length-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/explicit-length-check.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "explicit-timer-delay",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/explicit-timer-delay.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "filename-case",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/filename-case.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "id-match",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/id-match.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "import-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/import-style.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "isolated-functions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/isolated-functions.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "logical-assignment-operators",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/logical-assignment-operators.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "max-nested-calls",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/max-nested-calls.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "name-replacements",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/name-replacements.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "new-for-builtins",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/new-for-builtins.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-abusive-eslint-disable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-abusive-eslint-disable.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-accessor-recursion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-accessor-recursion.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-accidental-bitwise-operator",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-accidental-bitwise-operator.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-anonymous-default-export",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-anonymous-default-export.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-callback-reference",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-callback-reference.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-concat-in-loop",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-concat-in-loop.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-fill-with-reference-type",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-fill-with-reference-type.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-from-fill",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-from-fill.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-front-mutation",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-front-mutation.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-method-this-argument",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-method-this-argument.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-push-push",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#no-array-push-push",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-array-reduce",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-reduce.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-reverse",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-reverse.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-sort",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-sort.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-sort-for-min-max",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-sort-for-min-max.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-array-splice",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-array-splice.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-asterisk-prefix-in-documentation-comments",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-asterisk-prefix-in-documentation-comments.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-async-promise-finally",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-async-promise-finally.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-await-expression-member",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-await-expression-member.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-await-in-promise-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-await-in-promise-methods.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-blob-to-file",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-blob-to-file.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-boolean-sort-comparator",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-boolean-sort-comparator.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-break-in-nested-loop",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-break-in-nested-loop.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-canvas-to-image",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-canvas-to-image.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-chained-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-chained-comparison.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-collection-bracket-access",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-collection-bracket-access.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-computed-property-existence-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-computed-property-existence-check.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-confusing-array-splice",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-confusing-array-splice.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-confusing-array-with",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-confusing-array-with.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-console-spaces",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-console-spaces.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-constant-zero-expression",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-constant-zero-expression.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-declarations-before-early-exit",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-declarations-before-early-exit.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-document-cookie",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-document-cookie.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-double-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-double-comparison.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-duplicate-if-branches",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-duplicate-if-branches.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicate-logical-operands",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-duplicate-logical-operands.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-duplicate-loops",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-duplicate-loops.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicate-set-values",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-duplicate-set-values.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-empty-file",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-empty-file.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-error-property-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-error-property-assignment.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-exports-in-scripts",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-exports-in-scripts.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-for-each",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-for-each.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-for-loop",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-for-loop.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-global-object-property-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-global-object-property-assignment.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-hex-escape",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#no-hex-escape",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-immediate-mutation",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-immediate-mutation.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-impossible-length-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-impossible-length-comparison.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-incorrect-query-selector",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-incorrect-query-selector.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-incorrect-template-string-interpolation",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-incorrect-template-string-interpolation.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-instanceof-array",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#no-instanceof-array",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-instanceof-builtins",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-instanceof-builtins.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-invalid-argument-count",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-argument-count.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-character-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-character-comparison.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-fetch-options",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-fetch-options.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-file-input-accept",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-file-input-accept.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-remove-event-listener",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-remove-event-listener.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-invalid-well-known-symbol-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-invalid-well-known-symbol-methods.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-keyword-prefix",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-keyword-prefix.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-late-current-target-access",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-late-current-target-access.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-late-event-control",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-late-event-control.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-length-as-slice-end",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#no-length-as-slice-end",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-lonely-if",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-lonely-if.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-loop-iterable-mutation",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-loop-iterable-mutation.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-magic-array-flat-depth",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-magic-array-flat-depth.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-manually-wrapped-comments",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-manually-wrapped-comments.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-mismatched-map-key",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-mismatched-map-key.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-misrefactored-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-misrefactored-assignment.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-named-default",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-named-default.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-negated-array-predicate",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-negated-array-predicate.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-negated-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-negated-comparison.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-negated-condition",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-negated-condition.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-negation-in-equality-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-negation-in-equality-check.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-nested-ternary",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-nested-ternary.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-new-array",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-new-array.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-new-buffer",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-new-buffer.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-non-function-verb-prefix",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-non-function-verb-prefix.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-nonstandard-builtin-properties",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-nonstandard-builtin-properties.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-null",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-null.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-object-as-default-parameter",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-object-as-default-parameter.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-object-methods-with-collections",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-object-methods-with-collections.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-optional-chaining-on-undeclared-variable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-optional-chaining-on-undeclared-variable.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-process-exit",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-process-exit.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-redundant-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-redundant-comparison.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-return-array-push",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-return-array-push.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-selector-as-dom-name",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-selector-as-dom-name.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-single-promise-in-promise-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-single-promise-in-promise-methods.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-static-only-class",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-static-only-class.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-subtraction-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-subtraction-comparison.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-thenable",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-thenable.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-this-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-this-assignment.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-this-outside-of-class",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-this-outside-of-class.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-top-level-assignment-in-function",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-top-level-assignment-in-function.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-top-level-side-effects",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-top-level-side-effects.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-typeof-undefined",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-typeof-undefined.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-uncalled-method",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-uncalled-method.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-undeclared-class-members",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-undeclared-class-members.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unnecessary-array-flat-depth",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-array-flat-depth.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-array-flat-map",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-array-flat-map.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unnecessary-array-splice-count",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-array-splice-count.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-await",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-await.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-boolean-comparison",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-boolean-comparison.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-fetch-options",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-fetch-options.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-global-this",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-global-this.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-nested-ternary",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-nested-ternary.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-polyfills",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-polyfills.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-slice-end",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-slice-end.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unnecessary-splice",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unnecessary-splice.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unreadable-array-destructuring",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unreadable-array-destructuring.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unreadable-for-of-expression",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unreadable-for-of-expression.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unreadable-iife",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unreadable-iife.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unreadable-new-expression",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unreadable-new-expression.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unreadable-object-destructuring",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unreadable-object-destructuring.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-buffer-conversion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unsafe-buffer-conversion.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-unsafe-dom-html",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unsafe-dom-html.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-promise-all-settled-values",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unsafe-promise-all-settled-values.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-property-key",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unsafe-property-key.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unsafe-string-replacement",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unsafe-string-replacement.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-array-method-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unused-array-method-return.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-properties",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-unused-properties.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-boolean-cast",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-boolean-cast.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-coercion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-coercion.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-collection-argument",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-collection-argument.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-compound-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-compound-assignment.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-concat",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-concat.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-continue",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-continue.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-delete-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-delete-check.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-else",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-else.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-error-capture-stack-trace",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-error-capture-stack-trace.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-fallback-in-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-fallback-in-spread.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-iterator-to-array",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-iterator-to-array.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-length-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-length-check.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-logical-operand",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-logical-operand.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-override",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-override.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-promise-resolve-reject",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-promise-resolve-reject.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-recursion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-recursion.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-spread.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-switch-case",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-switch-case.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-template-literals",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-template-literals.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-useless-undefined",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-useless-undefined.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-xor-as-exponentiation",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-xor-as-exponentiation.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-zero-fractions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/no-zero-fractions.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "number-literal-case",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/number-literal-case.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "numeric-separators-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/numeric-separators-style.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "operator-assignment",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/operator-assignment.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-abort-signal-any",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-abort-signal-any.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-abort-signal-timeout",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-abort-signal-timeout.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-add-event-listener",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-add-event-listener.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-add-event-listener-options",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-add-event-listener-options.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-aggregate-error",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-aggregate-error.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-array-find",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-find.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-flat",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-flat.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-array-flat-map",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-flat-map.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-from-async",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-from-async.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-array-from-map",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-from-map.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-from-range",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-from-range.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-array-index-of",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-index-of.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-iterable-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-iterable-methods.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-array-last-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-last-methods.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-slice",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-slice.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-array-some",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-array-some.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-at",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-at.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-await",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-await.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-bigint-literals",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-bigint-literals.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-blob-reading-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-blob-reading-methods.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-block-statement-over-iife",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-block-statement-over-iife.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-boolean-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-boolean-return.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-class-fields",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-class-fields.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-classlist-toggle",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-classlist-toggle.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-code-point",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-code-point.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-continue",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-continue.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-date-now",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-date-now.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-default-parameters",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-default-parameters.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-direct-iteration",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-direct-iteration.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-dispose",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dispose.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-dom-node-append",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dom-node-append.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-dom-node-dataset",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#prefer-dom-node-dataset",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-dom-node-html-methods",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dom-node-html-methods.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-dom-node-remove",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dom-node-remove.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-dom-node-replace-children",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dom-node-replace-children.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-dom-node-text-content",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-dom-node-text-content.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-early-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-early-return.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-else-if",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-else-if.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-error-is-error",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-error-is-error.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-event-target",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-event-target.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-export-from",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-export-from.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-flat-math-min-max",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-flat-math-min-max.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-get-or-insert-computed",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-get-or-insert-computed.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global-number-constants",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-global-number-constants.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-global-this",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-global-this.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-group-by",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-group-by.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-has-check",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-has-check.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-hoisting-branch-code",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-hoisting-branch-code.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-https",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-https.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-identifier-import-export-specifiers",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-identifier-import-export-specifiers.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-import-meta-properties",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-import-meta-properties.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-includes",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-includes.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-includes-over-repeated-comparisons",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-includes-over-repeated-comparisons.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-iterable-in-constructor",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-iterable-in-constructor.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-iterator-concat",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-iterator-concat.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-iterator-helpers",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-iterator-helpers.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-iterator-to-array",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-iterator-to-array.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-iterator-to-array-at-end",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-iterator-to-array-at-end.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-json-parse-buffer",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#prefer-json-parse-buffer",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-keyboard-event-key",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-keyboard-event-key.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-location-assign",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-location-assign.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-logical-operator-over-ternary",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-logical-operator-over-ternary.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-map-from-entries",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-map-from-entries.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-math-abs",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-math-abs.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-math-constants",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-math-constants.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-math-min-max",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-math-min-max.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-math-trunc",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-math-trunc.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-minimal-ternary",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-minimal-ternary.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-modern-dom-apis",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-modern-dom-apis.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-modern-math-apis",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-modern-math-apis.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-module",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-module.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-native-coercion-functions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-native-coercion-functions.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-negative-index",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-negative-index.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-node-protocol",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-node-protocol.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-number-coercion",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-number-coercion.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-number-is-safe-integer",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-number-is-safe-integer.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-number-properties",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-number-properties.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-object-define-properties",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-object-define-properties.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-object-destructuring-defaults",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-object-destructuring-defaults.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-object-from-entries",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-object-from-entries.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-object-iterable-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-object-iterable-methods.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-observer-apis",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-observer-apis.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-optional-catch-binding",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-optional-catch-binding.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-path2d",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-path2d.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-private-class-fields",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-private-class-fields.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-promise-try",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-promise-try.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-promise-with-resolvers",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-promise-with-resolvers.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-prototype-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-prototype-methods.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-query-selector",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-query-selector.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-queue-microtask",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-queue-microtask.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-reflect-apply",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-reflect-apply.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-regexp-escape",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-regexp-escape.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-regexp-test",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-regexp-test.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-response-static-json",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-response-static-json.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-scoped-selector",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-scoped-selector.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-set-has",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-set-has.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-set-methods",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-set-methods.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-set-size",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-set-size.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-short-arrow-method",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-short-arrow-method.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-simple-condition-first",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-simple-condition-first.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-simple-sort-comparator",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-simple-sort-comparator.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-simplified-conditions",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-simplified-conditions.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-single-array-predicate",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-single-array-predicate.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-single-call",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-single-call.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-single-object-destructuring",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-single-object-destructuring.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-single-replace",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-single-replace.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-smaller-scope",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-smaller-scope.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-split-limit",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-split-limit.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-spread",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-spread.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-string-match-all",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-match-all.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-pad-start-end",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-pad-start-end.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-string-raw",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-raw.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-repeat",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-repeat.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-replace-all",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-replace-all.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-slice",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-slice.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-string-starts-ends-with",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-starts-ends-with.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-string-trim-start-end",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-string-trim-start-end.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-structured-clone",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-structured-clone.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-switch",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-switch.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-temporal",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-temporal.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-ternary",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-ternary.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-toggle-attribute",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-toggle-attribute.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-top-level-await",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-top-level-await.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-type-error",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-type-error.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-type-literal-last",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-type-literal-last.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-uint8array-base64",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-uint8array-base64.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-unary-minus",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-unary-minus.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-unicode-code-point-escapes",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-unicode-code-point-escapes.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-url-can-parse",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-url-can-parse.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-url-href",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-url-href.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-url-search-parameters",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-url-search-parameters.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "prefer-while-loop-condition",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/prefer-while-loop-condition.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prevent-abbreviations",
+      "deprecated": true,
+      "recommended": false,
+      "type": null,
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/deleted-and-deprecated-rules.md#prevent-abbreviations",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "relative-url-style",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/relative-url-style.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "require-array-join-separator",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-array-join-separator.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-array-sort-compare",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-array-sort-compare.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "require-css-escape",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-css-escape.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-module-attributes",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-module-attributes.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-module-specifiers",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-module-specifiers.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "require-number-to-fixed-digits-argument",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-number-to-fixed-digits-argument.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-passive-events",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-passive-events.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "require-post-message-target-origin",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-post-message-target-origin.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "require-proxy-trap-boolean-return",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/require-proxy-trap-boolean-return.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "string-content",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/string-content.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "switch-case-braces",
+      "deprecated": false,
+      "recommended": true,
+      "type": "layout",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/switch-case-braces.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "switch-case-break-position",
+      "deprecated": false,
+      "recommended": true,
+      "type": "layout",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/switch-case-break-position.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "template-indent",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/template-indent.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "text-encoding-identifier-case",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/text-encoding-identifier-case.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "throw-new-error",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/throw-new-error.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "try-complexity",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/v70.0.0/docs/rules/try-complexity.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

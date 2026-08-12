@@ -1,0 +1,428 @@
+{
+  "date": "2026-03-11T19:22:39.737Z",
+  "rules": [
+    {
+      "name": "consistent-type-specifier-style",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/consistent-type-specifier-style.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "default",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/default.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "dynamic-import-chunkname",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/dynamic-import-chunkname.md",
+      "fixable": false,
+      "hasSuggestions": true
+    },
+    {
+      "name": "export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/export.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "exports-last",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/exports-last.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "extensions",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/extensions.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "first",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/first.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "group-exports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/group-exports.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "imports-first",
+      "deprecated": true,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/imports-first.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "max-dependencies",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/max-dependencies.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "named",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/named.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "namespace",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/namespace.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "newline-after-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "layout",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/newline-after-import.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-absolute-path",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-absolute-path.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-amd",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-amd.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-anonymous-default-export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-anonymous-default-export.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-commonjs",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-commonjs.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-cycle",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-cycle.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-default-export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-default-export.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-deprecated",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-deprecated.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-duplicates",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-duplicates.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-dynamic-require",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-dynamic-require.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-empty-named-blocks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-empty-named-blocks.md",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-extraneous-dependencies",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-extraneous-dependencies.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-import-module-exports",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-import-module-exports.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-internal-modules",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-internal-modules.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-mutable-exports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-mutable-exports.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-named-as-default",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-named-as-default.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-named-as-default-member",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-named-as-default-member.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-named-default",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-named-default.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-named-export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-named-export.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-namespace",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-namespace.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-nodejs-modules",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-nodejs-modules.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-relative-packages",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-relative-packages.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-relative-parent-imports",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-relative-parent-imports.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-rename-default",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-rename-default.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-restricted-paths",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-restricted-paths.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-self-import",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-self-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unassigned-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-unassigned-import.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unresolved",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-unresolved.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-unused-modules",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-unused-modules.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-useless-path-segments",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-useless-path-segments.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "no-webpack-loader-syntax",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/no-webpack-loader-syntax.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "order",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/order.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-default-export",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/prefer-default-export.md",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "prefer-namespace-import",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/prefer-namespace-import.md",
+      "fixable": true,
+      "hasSuggestions": false
+    },
+    {
+      "name": "unambiguous",
+      "deprecated": false,
+      "recommended": false,
+      "type": "suggestion",
+      "url": "https://github.com/un-ts/eslint-plugin-import-x/blob/v4.16.2/docs/rules/unambiguous.md",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

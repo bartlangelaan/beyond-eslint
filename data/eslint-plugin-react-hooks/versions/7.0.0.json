@@ -1,0 +1,266 @@
+{
+  "date": "2025-10-08T22:52:25.284Z",
+  "rules": [
+    {
+      "name": "automatic-effect-dependencies",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/automatic-effect-dependencies",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "capitalized-calls",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/capitalized-calls",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "component-hook-factories",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/component-hook-factories",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "config",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/config",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "error-boundaries",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/error-boundaries",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "exhaustive-deps",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/facebook/react/issues/14920",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "fbt",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/fbt",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "fire",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/fire",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "gating",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/gating",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "globals",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/globals",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "hooks",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/hooks",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "immutability",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "incompatible-library",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/incompatible-library",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "invariant",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/invariant",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "memoized-effect-dependencies",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/memoized-effect-dependencies",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "no-deriving-state-in-effects",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/no-deriving-state-in-effects",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "preserve-manual-memoization",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "purity",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/purity",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "refs",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/refs",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "rule-suppression",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/rule-suppression",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "rules-of-hooks",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/rules/rules-of-hooks",
+      "fixable": false,
+      "hasSuggestions": false
+    },
+    {
+      "name": "set-state-in-effect",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-effect",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "set-state-in-render",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "static-components",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/static-components",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "syntax",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/syntax",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "todo",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/todo",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "unsupported-syntax",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "use-memo",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "void-use-memo",
+      "deprecated": false,
+      "recommended": false,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/void-use-memo",
+      "fixable": true,
+      "hasSuggestions": true
+    }
+  ]
+}

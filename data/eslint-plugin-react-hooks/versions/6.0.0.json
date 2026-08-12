@@ -1,0 +1,32 @@
+{
+  "date": "2025-04-21T18:10:52.503Z",
+  "rules": [
+    {
+      "name": "exhaustive-deps",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/facebook/react/issues/14920",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "react-compiler",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/react-compiler",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "rules-of-hooks",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://reactjs.org/docs/hooks-rules.html",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}

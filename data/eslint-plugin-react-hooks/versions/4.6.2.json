@@ -1,0 +1,23 @@
+{
+  "date": "2024-04-26T16:42:06.111Z",
+  "rules": [
+    {
+      "name": "exhaustive-deps",
+      "deprecated": false,
+      "recommended": true,
+      "type": "suggestion",
+      "url": "https://github.com/facebook/react/issues/14920",
+      "fixable": true,
+      "hasSuggestions": true
+    },
+    {
+      "name": "rules-of-hooks",
+      "deprecated": false,
+      "recommended": true,
+      "type": "problem",
+      "url": "https://reactjs.org/docs/hooks-rules.html",
+      "fixable": false,
+      "hasSuggestions": false
+    }
+  ]
+}
