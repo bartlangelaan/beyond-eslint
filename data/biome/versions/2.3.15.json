@@ -1,0 +1,3495 @@
+{
+  "date": "2026-02-12T11:52:54.152Z",
+  "rules": [
+    {
+      "name": "noAccessKey",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-access-key",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-access-key"
+      ]
+    },
+    {
+      "name": "noAccumulatingSpread",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-accumulating-spread",
+      "recommended": true
+    },
+    {
+      "name": "noAdjacentSpacesInRegex",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-adjacent-spaces-in-regex",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noAlert",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-alert",
+      "recommended": false
+    },
+    {
+      "name": "noAmbiguousAnchorText",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-ambiguous-anchor-text",
+      "recommended": false
+    },
+    {
+      "name": "noApproximativeNumericConstant",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-approximative-numeric-constant",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noArguments",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-arguments",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-rest-params"
+      ]
+    },
+    {
+      "name": "noAriaHiddenOnFocusable",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-aria-hidden-on-focusable",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-aria-hidden-on-focusable"
+      ]
+    },
+    {
+      "name": "noAriaUnsupportedElements",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-aria-unsupported-elements",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-unsupported-elements"
+      ]
+    },
+    {
+      "name": "noArrayIndexKey",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-array-index-key",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-array-index-key"
+      ]
+    },
+    {
+      "name": "noAssignInExpressions",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-assign-in-expressions",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-cond-assign"
+      ]
+    },
+    {
+      "name": "noAsyncPromiseExecutor",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-async-promise-executor",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-async-promise-executor"
+      ]
+    },
+    {
+      "name": "noAutofocus",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-autofocus",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-autofocus"
+      ]
+    },
+    {
+      "name": "noAwaitInLoops",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-await-in-loops",
+      "recommended": false
+    },
+    {
+      "name": "noBannedTypes",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-banned-types",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/ban-types"
+      ]
+    },
+    {
+      "name": "noBarrelFile",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-barrel-file",
+      "recommended": false,
+      "eslintRules": [
+        "barrel-files/avoid-barrel-files"
+      ]
+    },
+    {
+      "name": "noBeforeInteractiveScriptOutsideDocument",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-before-interactive-script-outside-document",
+      "recommended": false
+    },
+    {
+      "name": "noBiomeFirstException",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-biome-first-exception",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noBitwiseOperators",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-bitwise-operators",
+      "recommended": false
+    },
+    {
+      "name": "noBlankTarget",
+      "category": "security",
+      "url": "https://biomejs.dev/linter/rules/no-blank-target",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-target-blank"
+      ]
+    },
+    {
+      "name": "noCatchAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-catch-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-ex-assign"
+      ]
+    },
+    {
+      "name": "noChildrenProp",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-children-prop",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-children-prop"
+      ]
+    },
+    {
+      "name": "noClassAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-class-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-class-assign"
+      ]
+    },
+    {
+      "name": "noCommaOperator",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-comma-operator",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-sequences"
+      ]
+    },
+    {
+      "name": "noCommentText",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-comment-text",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-comment-textnodes"
+      ]
+    },
+    {
+      "name": "noCommonJs",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-common-js",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-require-imports",
+        "import/no-commonjs"
+      ]
+    },
+    {
+      "name": "noCompareNegZero",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-compare-neg-zero",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-compare-neg-zero"
+      ]
+    },
+    {
+      "name": "noConfusingLabels",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-confusing-labels",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-labels"
+      ]
+    },
+    {
+      "name": "noConfusingVoidType",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-confusing-void-type",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-invalid-void-type"
+      ]
+    },
+    {
+      "name": "noConsole",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-console",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-console"
+      ]
+    },
+    {
+      "name": "noConstantBinaryExpressions",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-constant-binary-expressions",
+      "recommended": false
+    },
+    {
+      "name": "noConstantCondition",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-constant-condition",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-constant-condition"
+      ]
+    },
+    {
+      "name": "noConstantMathMinMaxClamp",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-constant-math-min-max-clamp",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noConstAssign",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-const-assign",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-const-assign"
+      ]
+    },
+    {
+      "name": "noConstEnum",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-const-enum",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noConstructorReturn",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-constructor-return",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-constructor-return"
+      ]
+    },
+    {
+      "name": "noContinue",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-continue",
+      "recommended": false
+    },
+    {
+      "name": "noControlCharactersInRegex",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-control-characters-in-regex",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-control-regex"
+      ]
+    },
+    {
+      "name": "noDangerouslySetInnerHtml",
+      "category": "security",
+      "url": "https://biomejs.dev/linter/rules/no-dangerously-set-inner-html",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-danger"
+      ]
+    },
+    {
+      "name": "noDangerouslySetInnerHtmlWithChildren",
+      "category": "security",
+      "url": "https://biomejs.dev/linter/rules/no-dangerously-set-inner-html-with-children",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-danger-with-children"
+      ]
+    },
+    {
+      "name": "noDebugger",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-debugger",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-debugger"
+      ]
+    },
+    {
+      "name": "noDefaultExport",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-default-export",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-default-export"
+      ]
+    },
+    {
+      "name": "noDelete",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-delete",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noDeprecatedImports",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-deprecated-imports",
+      "recommended": false
+    },
+    {
+      "name": "noDeprecatedMediaType",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-deprecated-media-type",
+      "recommended": false
+    },
+    {
+      "name": "noDescendingSpecificity",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-descending-specificity",
+      "recommended": true
+    },
+    {
+      "name": "noDistractingElements",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-distracting-elements",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-distracting-elements"
+      ]
+    },
+    {
+      "name": "noDivRegex",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-div-regex",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noDocumentCookie",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-document-cookie",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-document-cookie"
+      ]
+    },
+    {
+      "name": "noDocumentImportInPage",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-document-import-in-page",
+      "recommended": false,
+      "eslintRules": [
+        "@next/next/no-document-import-in-page"
+      ]
+    },
+    {
+      "name": "noDoneCallback",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-done-callback",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-done-callback"
+      ]
+    },
+    {
+      "name": "noDoubleEquals",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-double-equals",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/eqeqeq"
+      ]
+    },
+    {
+      "name": "noDuplicateArgumentNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-argument-names",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateAtImportRules",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-at-import-rules",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateAttributes",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-attributes",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateCase",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-case",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-duplicate-case"
+      ]
+    },
+    {
+      "name": "noDuplicateClassMembers",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-class-members",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-dupe-class-members",
+        "eslint/no-dupe-class-members"
+      ]
+    },
+    {
+      "name": "noDuplicateCustomProperties",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-custom-properties",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateDependencies",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-dependencies",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicatedSpreadProps",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicated-spread-props",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateElseIf",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-else-if",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-else-if"
+      ]
+    },
+    {
+      "name": "noDuplicateEnumValueNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-enum-value-names",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateEnumValues",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-enum-values",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateFieldDefinitionNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-field-definition-names",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateFields",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-fields",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateFontNames",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-font-names",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateGraphqlOperationName",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-graphql-operation-name",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateInputFieldNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-input-field-names",
+      "recommended": false
+    },
+    {
+      "name": "noDuplicateJsxProps",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-jsx-props",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-duplicate-props"
+      ]
+    },
+    {
+      "name": "noDuplicateObjectKeys",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-object-keys",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-keys"
+      ]
+    },
+    {
+      "name": "noDuplicateParameters",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-parameters",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-args"
+      ]
+    },
+    {
+      "name": "noDuplicateProperties",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-properties",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateSelectorsKeyframeBlock",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-selectors-keyframe-block",
+      "recommended": true
+    },
+    {
+      "name": "noDuplicateTestHooks",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-test-hooks",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-duplicate-hooks"
+      ]
+    },
+    {
+      "name": "noDuplicateVariableNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-duplicate-variable-names",
+      "recommended": false
+    },
+    {
+      "name": "noDynamicNamespaceImportAccess",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-dynamic-namespace-import-access",
+      "recommended": true
+    },
+    {
+      "name": "noEmptyBlock",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-empty-block",
+      "recommended": true
+    },
+    {
+      "name": "noEmptyBlockStatements",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-empty-block-statements",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-empty-function",
+        "eslint/no-empty",
+        "eslint/no-empty-function",
+        "eslint/no-empty-static-block"
+      ]
+    },
+    {
+      "name": "noEmptyCharacterClassInRegex",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-empty-character-class-in-regex",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty-character-class"
+      ]
+    },
+    {
+      "name": "noEmptyInterface",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-empty-interface",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-empty-interface"
+      ]
+    },
+    {
+      "name": "noEmptyPattern",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-empty-pattern",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty-pattern"
+      ]
+    },
+    {
+      "name": "noEmptySource",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-empty-source",
+      "recommended": false
+    },
+    {
+      "name": "noEmptyTypeParameters",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-empty-type-parameters",
+      "recommended": true
+    },
+    {
+      "name": "noEnum",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-enum",
+      "recommended": false
+    },
+    {
+      "name": "noEqualsToNull",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-equals-to-null",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noEvolvingTypes",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-evolving-types",
+      "recommended": false
+    },
+    {
+      "name": "noExcessiveClassesPerFile",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-excessive-classes-per-file",
+      "recommended": false
+    },
+    {
+      "name": "noExcessiveCognitiveComplexity",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-excessive-cognitive-complexity",
+      "recommended": false,
+      "eslintRules": [
+        "sonarjs/cognitive-complexity"
+      ]
+    },
+    {
+      "name": "noExcessiveLinesPerFile",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-excessive-lines-per-file",
+      "recommended": false
+    },
+    {
+      "name": "noExcessiveLinesPerFunction",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-excessive-lines-per-function",
+      "recommended": false
+    },
+    {
+      "name": "noExcessiveNestedTestSuites",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-excessive-nested-test-suites",
+      "recommended": false,
+      "eslintRules": [
+        "jest/max-nested-describe"
+      ]
+    },
+    {
+      "name": "noExplicitAny",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-explicit-any",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-explicit-any"
+      ]
+    },
+    {
+      "name": "noExportedImports",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-exported-imports",
+      "recommended": false
+    },
+    {
+      "name": "noExportsInTest",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-exports-in-test",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-export"
+      ]
+    },
+    {
+      "name": "noExtraBooleanCast",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-extra-boolean-cast",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-extra-boolean-cast"
+      ]
+    },
+    {
+      "name": "noExtraNonNullAssertion",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-extra-non-null-assertion",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-extra-non-null-assertion"
+      ]
+    },
+    {
+      "name": "noFallthroughSwitchClause",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-fallthrough-switch-clause",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-fallthrough"
+      ]
+    },
+    {
+      "name": "noFlatMapIdentity",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-flat-map-identity",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noFloatingClasses",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-floating-classes",
+      "recommended": false
+    },
+    {
+      "name": "noFloatingPromises",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-floating-promises",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noFocusedTests",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-focused-tests",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-focused-tests"
+      ]
+    },
+    {
+      "name": "noForEach",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-for-each",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/no-array-for-each"
+      ]
+    },
+    {
+      "name": "noForIn",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-for-in",
+      "recommended": false
+    },
+    {
+      "name": "noFunctionAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-function-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-func-assign"
+      ]
+    },
+    {
+      "name": "noGlobalAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-global-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-global-assign"
+      ]
+    },
+    {
+      "name": "noGlobalDirnameFilename",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-global-dirname-filename",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noGlobalEval",
+      "category": "security",
+      "url": "https://biomejs.dev/linter/rules/no-global-eval",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-eval"
+      ]
+    },
+    {
+      "name": "noGlobalIsFinite",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-global-is-finite",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noGlobalIsNan",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-global-is-nan",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noGlobalObjectCalls",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-global-object-calls",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-obj-calls"
+      ]
+    },
+    {
+      "name": "noHeadElement",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-head-element",
+      "recommended": false,
+      "eslintRules": [
+        "@next/next/no-head-element"
+      ]
+    },
+    {
+      "name": "noHeaderScope",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-header-scope",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/scope"
+      ]
+    },
+    {
+      "name": "noHeadImportInDocument",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-head-import-in-document",
+      "recommended": false,
+      "eslintRules": [
+        "@next/next/no-head-import-in-document"
+      ]
+    },
+    {
+      "name": "noHexColors",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-hex-colors",
+      "recommended": false
+    },
+    {
+      "name": "noImgElement",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-img-element",
+      "recommended": false,
+      "eslintRules": [
+        "@next/next/no-img-element"
+      ]
+    },
+    {
+      "name": "noImplicitAnyLet",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-implicit-any-let",
+      "recommended": true
+    },
+    {
+      "name": "noImplicitBoolean",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-implicit-boolean",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-boolean-value"
+      ]
+    },
+    {
+      "name": "noImplicitCoercions",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-implicit-coercions",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noImportantInKeyframe",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-important-in-keyframe",
+      "recommended": true
+    },
+    {
+      "name": "noImportantStyles",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-important-styles",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noImportAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-import-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-import-assign"
+      ]
+    },
+    {
+      "name": "noImportCycles",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-import-cycles",
+      "recommended": false
+    },
+    {
+      "name": "noIncrementDecrement",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-increment-decrement",
+      "recommended": false
+    },
+    {
+      "name": "noInferrableTypes",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-inferrable-types",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-inferrable-types"
+      ]
+    },
+    {
+      "name": "noInnerDeclarations",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-inner-declarations",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-inner-declarations"
+      ]
+    },
+    {
+      "name": "noInteractiveElementToNoninteractiveRole",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-interactive-element-to-noninteractive-role",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-interactive-element-to-noninteractive-role"
+      ]
+    },
+    {
+      "name": "noInvalidBuiltinInstantiation",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-builtin-instantiation",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-new-native-nonconstructor",
+        "unicorn/new-for-builtins"
+      ]
+    },
+    {
+      "name": "noInvalidConstructorSuper",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-constructor-super",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/constructor-super"
+      ]
+    },
+    {
+      "name": "noInvalidDirectionInLinearGradient",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-direction-in-linear-gradient",
+      "recommended": true
+    },
+    {
+      "name": "noInvalidGridAreas",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-grid-areas",
+      "recommended": true
+    },
+    {
+      "name": "noInvalidPositionAtImportRule",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-position-at-import-rule",
+      "recommended": true
+    },
+    {
+      "name": "noInvalidUseBeforeDeclaration",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-invalid-use-before-declaration",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-use-before-define",
+        "eslint/no-use-before-define"
+      ]
+    },
+    {
+      "name": "noIrregularWhitespace",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-irregular-whitespace",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-irregular-whitespace"
+      ]
+    },
+    {
+      "name": "noJsxLiterals",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-jsx-literals",
+      "recommended": false
+    },
+    {
+      "name": "noJsxPropsBind",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-jsx-props-bind",
+      "recommended": false
+    },
+    {
+      "name": "noLabelVar",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-label-var",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-label-var"
+      ]
+    },
+    {
+      "name": "noLabelWithoutControl",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-label-without-control",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/label-has-associated-control"
+      ]
+    },
+    {
+      "name": "noLeakedRender",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-leaked-render",
+      "recommended": false
+    },
+    {
+      "name": "noMagicNumbers",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-magic-numbers",
+      "recommended": false
+    },
+    {
+      "name": "noMisleadingCharacterClass",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-misleading-character-class",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-misleading-character-class"
+      ]
+    },
+    {
+      "name": "noMisleadingInstantiator",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-misleading-instantiator",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-misused-new"
+      ]
+    },
+    {
+      "name": "noMisplacedAssertion",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-misplaced-assertion",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-standalone-expect"
+      ]
+    },
+    {
+      "name": "noMisrefactoredShorthandAssign",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-misrefactored-shorthand-assign",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noMissingVarFunction",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-missing-var-function",
+      "recommended": true
+    },
+    {
+      "name": "noMisusedPromises",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-misused-promises",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noMultiAssign",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-multi-assign",
+      "recommended": false
+    },
+    {
+      "name": "noMultiStr",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-multi-str",
+      "recommended": false
+    },
+    {
+      "name": "noNamespace",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-namespace",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-namespace"
+      ]
+    },
+    {
+      "name": "noNamespaceImport",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-namespace-import",
+      "recommended": false,
+      "eslintRules": [
+        "barrel-files/avoid-namespace-import"
+      ]
+    },
+    {
+      "name": "noNegationElse",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-negation-else",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-negated-condition"
+      ]
+    },
+    {
+      "name": "noNestedComponentDefinitions",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-nested-component-definitions",
+      "recommended": false
+    },
+    {
+      "name": "noNestedPromises",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-nested-promises",
+      "recommended": true
+    },
+    {
+      "name": "noNestedTernary",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-nested-ternary",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-nested-ternary"
+      ]
+    },
+    {
+      "name": "noNextAsyncClientComponent",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-next-async-client-component",
+      "recommended": false
+    },
+    {
+      "name": "noNodejsModules",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-nodejs-modules",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-nodejs-modules"
+      ]
+    },
+    {
+      "name": "noNoninteractiveElementInteractions",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-noninteractive-element-interactions",
+      "recommended": false
+    },
+    {
+      "name": "noNoninteractiveElementToInteractiveRole",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-noninteractive-element-to-interactive-role",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-noninteractive-element-to-interactive-role"
+      ]
+    },
+    {
+      "name": "noNoninteractiveTabindex",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-noninteractive-tabindex",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-noninteractive-tabindex"
+      ]
+    },
+    {
+      "name": "noNonNullAssertedOptionalChain",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-non-null-asserted-optional-chain",
+      "recommended": true
+    },
+    {
+      "name": "noNonNullAssertion",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-non-null-assertion",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-assertion"
+      ]
+    },
+    {
+      "name": "noNonoctalDecimalEscape",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-nonoctal-decimal-escape",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-nonoctal-decimal-escape"
+      ]
+    },
+    {
+      "name": "noOctalEscape",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-octal-escape",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-octal-escape"
+      ]
+    },
+    {
+      "name": "noParameterAssign",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-parameter-assign",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-param-reassign"
+      ]
+    },
+    {
+      "name": "noParameterProperties",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-parameter-properties",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/parameter-properties"
+      ]
+    },
+    {
+      "name": "noParametersOnlyUsedInRecursion",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-parameters-only-used-in-recursion",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noPositiveTabindex",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-positive-tabindex",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/tabindex-no-positive"
+      ]
+    },
+    {
+      "name": "noPrecisionLoss",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-precision-loss",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-loss-of-precision",
+        "eslint/no-loss-of-precision"
+      ]
+    },
+    {
+      "name": "noPrivateImports",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-private-imports",
+      "recommended": false
+    },
+    {
+      "name": "noProcessEnv",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-process-env",
+      "recommended": false,
+      "eslintRules": [
+        "n/no-process-env"
+      ]
+    },
+    {
+      "name": "noProcessGlobal",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-process-global",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noProto",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-proto",
+      "recommended": true
+    },
+    {
+      "name": "noPrototypeBuiltins",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-prototype-builtins",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-prototype-builtins",
+        "eslint/prefer-object-has-own"
+      ]
+    },
+    {
+      "name": "noQuickfixBiome",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-quickfix-biome",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noQwikUseVisibleTask",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-qwik-use-visible-task",
+      "recommended": false
+    },
+    {
+      "name": "noReactForwardRef",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-react-forward-ref",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noReactPropAssignments",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-react-prop-assignments",
+      "recommended": false
+    },
+    {
+      "name": "noReactSpecificProps",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-react-specific-props",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "solid/no-react-specific-props"
+      ]
+    },
+    {
+      "name": "noRedeclare",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-redeclare",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-redeclare",
+        "eslint/no-redeclare"
+      ]
+    },
+    {
+      "name": "noRedundantAlt",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-redundant-alt",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/img-redundant-alt"
+      ]
+    },
+    {
+      "name": "noRedundantDefaultExport",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-redundant-default-export",
+      "recommended": false
+    },
+    {
+      "name": "noRedundantRoles",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-redundant-roles",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-redundant-roles"
+      ]
+    },
+    {
+      "name": "noRedundantUseStrict",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-redundant-use-strict",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noReExportAll",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-re-export-all",
+      "recommended": false,
+      "eslintRules": [
+        "barrel-files/avoid-re-export-all"
+      ]
+    },
+    {
+      "name": "noRenderReturnValue",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-render-return-value",
+      "recommended": false
+    },
+    {
+      "name": "noRestrictedElements",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-restricted-elements",
+      "recommended": false
+    },
+    {
+      "name": "noRestrictedGlobals",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-restricted-globals",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-restricted-globals"
+      ]
+    },
+    {
+      "name": "noRestrictedImports",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-restricted-imports",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-restricted-imports",
+        "eslint/no-restricted-imports"
+      ]
+    },
+    {
+      "name": "noRestrictedTypes",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-restricted-types",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-restricted-types"
+      ]
+    },
+    {
+      "name": "noReturnAssign",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-return-assign",
+      "recommended": false
+    },
+    {
+      "name": "noRootType",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-root-type",
+      "recommended": false
+    },
+    {
+      "name": "noScriptUrl",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-script-url",
+      "recommended": true
+    },
+    {
+      "name": "noSecrets",
+      "category": "security",
+      "url": "https://biomejs.dev/linter/rules/no-secrets",
+      "recommended": false,
+      "eslintRules": [
+        "no-secrets/no-secrets"
+      ]
+    },
+    {
+      "name": "noSelfAssign",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-self-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-self-assign"
+      ]
+    },
+    {
+      "name": "noSelfCompare",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-self-compare",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-self-compare"
+      ]
+    },
+    {
+      "name": "noSetterReturn",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-setter-return",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-setter-return"
+      ]
+    },
+    {
+      "name": "noShadow",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-shadow",
+      "recommended": false
+    },
+    {
+      "name": "noShadowRestrictedNames",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-shadow-restricted-names",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-shadow-restricted-names"
+      ]
+    },
+    {
+      "name": "noShorthandPropertyOverrides",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-shorthand-property-overrides",
+      "recommended": true
+    },
+    {
+      "name": "noShoutyConstants",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-shouty-constants",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noSkippedTests",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-skipped-tests",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-disabled-tests"
+      ]
+    },
+    {
+      "name": "noSolidDestructuredProps",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-solid-destructured-props",
+      "recommended": false
+    },
+    {
+      "name": "noSparseArray",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-sparse-array",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-sparse-arrays"
+      ]
+    },
+    {
+      "name": "noStaticElementInteractions",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-static-element-interactions",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-static-element-interactions"
+      ]
+    },
+    {
+      "name": "noStaticOnlyClass",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-static-only-class",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-extraneous-class",
+        "unicorn/no-static-only-class"
+      ]
+    },
+    {
+      "name": "noStringCaseMismatch",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-string-case-mismatch",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noSubstr",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-substr",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/prefer-string-slice"
+      ]
+    },
+    {
+      "name": "noSuspiciousSemicolonInJsx",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-suspicious-semicolon-in-jsx",
+      "recommended": true
+    },
+    {
+      "name": "noSvgWithoutTitle",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/no-svg-without-title",
+      "recommended": true
+    },
+    {
+      "name": "noSwitchDeclarations",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-switch-declarations",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-case-declarations"
+      ]
+    },
+    {
+      "name": "noSyncScripts",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-sync-scripts",
+      "recommended": false
+    },
+    {
+      "name": "noTemplateCurlyInString",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-template-curly-in-string",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-template-curly-in-string"
+      ]
+    },
+    {
+      "name": "noTernary",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-ternary",
+      "recommended": false
+    },
+    {
+      "name": "noThenProperty",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-then-property",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-thenable"
+      ]
+    },
+    {
+      "name": "noThisInStatic",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-this-in-static",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@mysticatea/no-this-in-static"
+      ]
+    },
+    {
+      "name": "noTsIgnore",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-ts-ignore",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noUnassignedVariables",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-unassigned-variables",
+      "recommended": false
+    },
+    {
+      "name": "noUndeclaredDependencies",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-undeclared-dependencies",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-extraneous-dependencies"
+      ]
+    },
+    {
+      "name": "noUndeclaredEnvVars",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-undeclared-env-vars",
+      "recommended": false
+    },
+    {
+      "name": "noUndeclaredVariables",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-undeclared-variables",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-undef"
+      ]
+    },
+    {
+      "name": "noUnknownAtRules",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-at-rules",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownAttribute",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-attribute",
+      "recommended": false
+    },
+    {
+      "name": "noUnknownFunction",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-function",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownMediaFeatureName",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-media-feature-name",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownProperty",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-property",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownPseudoClass",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-pseudo-class",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownPseudoElement",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-pseudo-element",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownTypeSelector",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-type-selector",
+      "recommended": true
+    },
+    {
+      "name": "noUnknownUnit",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unknown-unit",
+      "recommended": true
+    },
+    {
+      "name": "noUnmatchableAnbSelector",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unmatchable-anb-selector",
+      "recommended": true
+    },
+    {
+      "name": "noUnnecessaryConditions",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-unnecessary-conditions",
+      "recommended": false
+    },
+    {
+      "name": "noUnreachable",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unreachable",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unreachable"
+      ]
+    },
+    {
+      "name": "noUnreachableSuper",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unreachable-super",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-this-before-super"
+      ]
+    },
+    {
+      "name": "noUnresolvedImports",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-unresolved-imports",
+      "recommended": false
+    },
+    {
+      "name": "noUnsafeDeclarationMerging",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-unsafe-declaration-merging",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-declaration-merging"
+      ]
+    },
+    {
+      "name": "noUnsafeFinally",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unsafe-finally",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-finally"
+      ]
+    },
+    {
+      "name": "noUnsafeNegation",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-unsafe-negation",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-negation"
+      ]
+    },
+    {
+      "name": "noUnsafeOptionalChaining",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unsafe-optional-chaining",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-optional-chaining"
+      ]
+    },
+    {
+      "name": "noUnusedExpressions",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-unused-expressions",
+      "recommended": false
+    },
+    {
+      "name": "noUnusedFunctionParameters",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unused-function-parameters",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "noUnusedImports",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unused-imports",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "unused-imports/no-unused-imports"
+      ]
+    },
+    {
+      "name": "noUnusedLabels",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unused-labels",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unused-labels"
+      ]
+    },
+    {
+      "name": "noUnusedPrivateClassMembers",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unused-private-class-members",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unused-private-class-members"
+      ]
+    },
+    {
+      "name": "noUnusedTemplateLiteral",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-unused-template-literal",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noUnusedVariables",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-unused-variables",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unused-vars",
+        "eslint/no-unused-vars",
+        "unused-imports/no-unused-vars"
+      ]
+    },
+    {
+      "name": "noUnwantedPolyfillio",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/no-unwanted-polyfillio",
+      "recommended": false
+    },
+    {
+      "name": "noUselessCatch",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-catch",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-catch"
+      ]
+    },
+    {
+      "name": "noUselessCatchBinding",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-useless-catch-binding",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noUselessConstructor",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-constructor",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-useless-constructor",
+        "eslint/no-useless-constructor"
+      ]
+    },
+    {
+      "name": "noUselessContinue",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-continue",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noUselessElse",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-useless-else",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-else-return"
+      ]
+    },
+    {
+      "name": "noUselessEmptyExport",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-empty-export",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-useless-empty-export"
+      ]
+    },
+    {
+      "name": "noUselessEscapeInRegex",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-escape-in-regex",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-escape"
+      ]
+    },
+    {
+      "name": "noUselessEscapeInString",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-useless-escape-in-string",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "noUselessFragments",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-fragments",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-useless-fragment"
+      ]
+    },
+    {
+      "name": "noUselessLabel",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-label",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-extra-label"
+      ]
+    },
+    {
+      "name": "noUselessLoneBlockStatements",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-lone-block-statements",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-lone-blocks"
+      ]
+    },
+    {
+      "name": "noUselessRegexBackrefs",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-useless-regex-backrefs",
+      "recommended": true
+    },
+    {
+      "name": "noUselessRename",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-rename",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-rename"
+      ]
+    },
+    {
+      "name": "noUselessReturn",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-useless-return",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noUselessStringConcat",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-string-concat",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-concat"
+      ]
+    },
+    {
+      "name": "noUselessStringRaw",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-string-raw",
+      "recommended": true
+    },
+    {
+      "name": "noUselessSwitchCase",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-switch-case",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-useless-switch-case"
+      ]
+    },
+    {
+      "name": "noUselessTernary",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-ternary",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unneeded-ternary"
+      ]
+    },
+    {
+      "name": "noUselessThisAlias",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-this-alias",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-this-alias"
+      ]
+    },
+    {
+      "name": "noUselessTypeConstraint",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-type-constraint",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-constraint"
+      ]
+    },
+    {
+      "name": "noUselessUndefined",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-useless-undefined",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noUselessUndefinedInitialization",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-useless-undefined-initialization",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-undef-init"
+      ]
+    },
+    {
+      "name": "noValueAtRule",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-value-at-rule",
+      "recommended": false
+    },
+    {
+      "name": "noVar",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-var",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-var"
+      ]
+    },
+    {
+      "name": "noVoid",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/no-void",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-void"
+      ]
+    },
+    {
+      "name": "noVoidElementsWithChildren",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-void-elements-with-children",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "react/void-dom-elements-no-children"
+      ]
+    },
+    {
+      "name": "noVoidTypeReturn",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/no-void-type-return",
+      "recommended": true
+    },
+    {
+      "name": "noVueArrowFuncInWatch",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-arrow-func-in-watch",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "noVueDataObjectDeclaration",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-data-object-declaration",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "noVueDuplicateKeys",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-duplicate-keys",
+      "recommended": false
+    },
+    {
+      "name": "noVueOptionsApi",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-options-api",
+      "recommended": false
+    },
+    {
+      "name": "noVueReservedKeys",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-reserved-keys",
+      "recommended": false
+    },
+    {
+      "name": "noVueReservedProps",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-reserved-props",
+      "recommended": false
+    },
+    {
+      "name": "noVueSetupPropsReactivityLoss",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-setup-props-reactivity-loss",
+      "recommended": false
+    },
+    {
+      "name": "noVueVIfWithVFor",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/no-vue-v-if-with-v-for",
+      "recommended": false
+    },
+    {
+      "name": "noWith",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/no-with",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-with"
+      ]
+    },
+    {
+      "name": "noYodaExpression",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/no-yoda-expression",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/yoda"
+      ]
+    },
+    {
+      "name": "useAdjacentOverloadSignatures",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-adjacent-overload-signatures",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/adjacent-overload-signatures"
+      ]
+    },
+    {
+      "name": "useAltText",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-alt-text",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/alt-text"
+      ]
+    },
+    {
+      "name": "useAnchorContent",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-anchor-content",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/anchor-has-content"
+      ]
+    },
+    {
+      "name": "useAriaActivedescendantWithTabindex",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-aria-activedescendant-with-tabindex",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-activedescendant-has-tabindex"
+      ]
+    },
+    {
+      "name": "useAriaPropsForRole",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-aria-props-for-role",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/role-has-required-aria-props"
+      ]
+    },
+    {
+      "name": "useAriaPropsSupportedByRole",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-aria-props-supported-by-role",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/role-supports-aria-props"
+      ]
+    },
+    {
+      "name": "useArrayLiterals",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-array-literals",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-array-constructor",
+        "eslint/no-array-constructor"
+      ]
+    },
+    {
+      "name": "useArraySortCompare",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-array-sort-compare",
+      "recommended": false
+    },
+    {
+      "name": "useArrowFunction",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-arrow-function",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-arrow-callback"
+      ]
+    },
+    {
+      "name": "useAsConstAssertion",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-as-const-assertion",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-as-const"
+      ]
+    },
+    {
+      "name": "useAtIndex",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-at-index",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/prefer-at"
+      ]
+    },
+    {
+      "name": "useAwait",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-await",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/require-await",
+        "eslint/require-await"
+      ]
+    },
+    {
+      "name": "useAwaitThenable",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-await-thenable",
+      "recommended": false
+    },
+    {
+      "name": "useBiomeIgnoreFolder",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-biome-ignore-folder",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "useBlockStatements",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-block-statements",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/curly"
+      ]
+    },
+    {
+      "name": "useButtonType",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-button-type",
+      "recommended": true,
+      "eslintRules": [
+        "react/button-has-type"
+      ]
+    },
+    {
+      "name": "useCollapsedElseIf",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-collapsed-else-if",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-lonely-if"
+      ]
+    },
+    {
+      "name": "useCollapsedIf",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-collapsed-if",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/no-lonely-if"
+      ]
+    },
+    {
+      "name": "useComponentExportOnlyModules",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-component-export-only-modules",
+      "recommended": false,
+      "eslintRules": [
+        "react-refresh/only-export-components"
+      ]
+    },
+    {
+      "name": "useConsistentArrayType",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-array-type",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/array-type"
+      ]
+    },
+    {
+      "name": "useConsistentArrowReturn",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-arrow-return",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useConsistentBuiltinInstantiation",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-builtin-instantiation",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new-wrappers"
+      ]
+    },
+    {
+      "name": "useConsistentCurlyBraces",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-curly-braces",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-curly-brace-presence"
+      ]
+    },
+    {
+      "name": "useConsistentEnumValueType",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-enum-value-type",
+      "recommended": false
+    },
+    {
+      "name": "useConsistentGraphqlDescriptions",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-graphql-descriptions",
+      "recommended": false
+    },
+    {
+      "name": "useConsistentMemberAccessibility",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-member-accessibility",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/explicit-member-accessibility"
+      ]
+    },
+    {
+      "name": "useConsistentMethodSignatures",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-method-signatures",
+      "recommended": false
+    },
+    {
+      "name": "useConsistentObjectDefinitions",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-object-definitions",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useConsistentTypeDefinitions",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-consistent-type-definitions",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useConst",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-const",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-const"
+      ]
+    },
+    {
+      "name": "useDateNow",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-date-now",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-date-now"
+      ]
+    },
+    {
+      "name": "useDefaultParameterLast",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-default-parameter-last",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/default-param-last",
+        "eslint/default-param-last"
+      ]
+    },
+    {
+      "name": "useDefaultSwitchClause",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-default-switch-clause",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/default-case"
+      ]
+    },
+    {
+      "name": "useDefaultSwitchClauseLast",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-default-switch-clause-last",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/default-case-last"
+      ]
+    },
+    {
+      "name": "useDeprecatedDate",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-deprecated-date",
+      "recommended": false
+    },
+    {
+      "name": "useDeprecatedReason",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-deprecated-reason",
+      "recommended": true
+    },
+    {
+      "name": "useDestructuring",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-destructuring",
+      "recommended": false
+    },
+    {
+      "name": "useEnumInitializers",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-enum-initializers",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-enum-initializers"
+      ]
+    },
+    {
+      "name": "useErrorCause",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-error-cause",
+      "recommended": false
+    },
+    {
+      "name": "useErrorMessage",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-error-message",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/error-message"
+      ]
+    },
+    {
+      "name": "useExhaustiveDependencies",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-exhaustive-dependencies",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "react-hooks/exhaustive-deps"
+      ]
+    },
+    {
+      "name": "useExhaustiveSwitchCases",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-exhaustive-switch-cases",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useExplicitLengthCheck",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-explicit-length-check",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/explicit-length-check"
+      ]
+    },
+    {
+      "name": "useExplicitType",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-explicit-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/explicit-function-return-type"
+      ]
+    },
+    {
+      "name": "useExponentiationOperator",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-exponentiation-operator",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-exponentiation-operator"
+      ]
+    },
+    {
+      "name": "useExportsLast",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-exports-last",
+      "recommended": false
+    },
+    {
+      "name": "useExportType",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-export-type",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-exports"
+      ]
+    },
+    {
+      "name": "useFilenamingConvention",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-filenaming-convention",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/filename-case"
+      ]
+    },
+    {
+      "name": "useFind",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-find",
+      "recommended": false
+    },
+    {
+      "name": "useFlatMap",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-flat-map",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-array-flat-map"
+      ]
+    },
+    {
+      "name": "useFocusableInteractive",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-focusable-interactive",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/interactive-supports-focus"
+      ]
+    },
+    {
+      "name": "useForOf",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-for-of",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-for-of",
+        "unicorn/no-for-loop"
+      ]
+    },
+    {
+      "name": "useFragmentSyntax",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-fragment-syntax",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-fragments"
+      ]
+    },
+    {
+      "name": "useGenericFontNames",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-generic-font-names",
+      "recommended": true
+    },
+    {
+      "name": "useGetterReturn",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-getter-return",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/getter-return"
+      ]
+    },
+    {
+      "name": "useGlobalThis",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-global-this",
+      "recommended": false
+    },
+    {
+      "name": "useGoogleFontDisplay",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-google-font-display",
+      "recommended": true,
+      "eslintRules": [
+        "@next/next/google-font-display"
+      ]
+    },
+    {
+      "name": "useGoogleFontPreconnect",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/use-google-font-preconnect",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useGraphqlNamedOperations",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-graphql-named-operations",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "useGraphqlNamingConvention",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-graphql-naming-convention",
+      "recommended": false
+    },
+    {
+      "name": "useGroupedAccessorPairs",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-grouped-accessor-pairs",
+      "recommended": false
+    },
+    {
+      "name": "useGuardForIn",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-guard-for-in",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/guard-for-in"
+      ]
+    },
+    {
+      "name": "useHeadingContent",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-heading-content",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/heading-has-content"
+      ]
+    },
+    {
+      "name": "useHookAtTopLevel",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-hook-at-top-level",
+      "recommended": false,
+      "eslintRules": [
+        "react-hooks/rules-of-hooks"
+      ]
+    },
+    {
+      "name": "useHtmlLang",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-html-lang",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/html-has-lang"
+      ]
+    },
+    {
+      "name": "useIframeTitle",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-iframe-title",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/iframe-has-title"
+      ]
+    },
+    {
+      "name": "useImageSize",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-image-size",
+      "recommended": false
+    },
+    {
+      "name": "useImportExtensions",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-import-extensions",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useImportType",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-import-type",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-imports"
+      ]
+    },
+    {
+      "name": "useIndexOf",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-index-of",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "useInlineScriptId",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-inline-script-id",
+      "recommended": false
+    },
+    {
+      "name": "useInputName",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-input-name",
+      "recommended": false
+    },
+    {
+      "name": "useIsArray",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-is-array",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-instanceof-array"
+      ]
+    },
+    {
+      "name": "useIsNan",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-is-nan",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/use-isnan"
+      ]
+    },
+    {
+      "name": "useIterableCallbackReturn",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-iterable-callback-return",
+      "recommended": true
+    },
+    {
+      "name": "useJsonImportAttributes",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-json-import-attributes",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useJsxKeyInIterable",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-jsx-key-in-iterable",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-key"
+      ]
+    },
+    {
+      "name": "useKeyWithClickEvents",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-key-with-click-events",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/click-events-have-key-events"
+      ]
+    },
+    {
+      "name": "useKeyWithMouseEvents",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-key-with-mouse-events",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/mouse-events-have-key-events"
+      ]
+    },
+    {
+      "name": "useLiteralEnumMembers",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-literal-enum-members",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-literal-enum-member"
+      ]
+    },
+    {
+      "name": "useLiteralKeys",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-literal-keys",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/dot-notation",
+        "eslint/dot-notation"
+      ]
+    },
+    {
+      "name": "useLoneAnonymousOperation",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-lone-anonymous-operation",
+      "recommended": false
+    },
+    {
+      "name": "useLoneExecutableDefinition",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-lone-executable-definition",
+      "recommended": false
+    },
+    {
+      "name": "useMaxParams",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-max-params",
+      "recommended": false
+    },
+    {
+      "name": "useMediaCaption",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-media-caption",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/media-has-caption"
+      ]
+    },
+    {
+      "name": "useNamespaceKeyword",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-namespace-keyword",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-namespace-keyword"
+      ]
+    },
+    {
+      "name": "useNamingConvention",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-naming-convention",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/naming-convention"
+      ]
+    },
+    {
+      "name": "useNodeAssertStrict",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-node-assert-strict",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useNodejsImportProtocol",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-nodejs-import-protocol",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-node-protocol"
+      ]
+    },
+    {
+      "name": "useNumberNamespace",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-number-namespace",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/prefer-number-properties"
+      ]
+    },
+    {
+      "name": "useNumberToFixedDigitsArgument",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-number-to-fixed-digits-argument",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/require-number-to-fixed-digits-argument"
+      ]
+    },
+    {
+      "name": "useNumericLiterals",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-numeric-literals",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-numeric-literals"
+      ]
+    },
+    {
+      "name": "useNumericSeparators",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-numeric-separators",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useObjectSpread",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-object-spread",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useOptionalChain",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-optional-chain",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-optional-chain"
+      ]
+    },
+    {
+      "name": "useParseIntRadix",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-parse-int-radix",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "useQwikClasslist",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-qwik-classlist",
+      "recommended": false
+    },
+    {
+      "name": "useQwikMethodUsage",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-qwik-method-usage",
+      "recommended": false
+    },
+    {
+      "name": "useQwikValidLexicalScope",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-qwik-valid-lexical-scope",
+      "recommended": false
+    },
+    {
+      "name": "useReactFunctionComponents",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-react-function-components",
+      "recommended": false
+    },
+    {
+      "name": "useReadonlyClassProperties",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-readonly-class-properties",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useRegexLiterals",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-regex-literals",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-regex-literals"
+      ]
+    },
+    {
+      "name": "useRegexpExec",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-regexp-exec",
+      "recommended": false
+    },
+    {
+      "name": "useRequiredScripts",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-required-scripts",
+      "recommended": false
+    },
+    {
+      "name": "useSelfClosingElements",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-self-closing-elements",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "@stylistic/jsx-self-closing-comp"
+      ]
+    },
+    {
+      "name": "useSemanticElements",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-semantic-elements",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/prefer-tag-over-role"
+      ]
+    },
+    {
+      "name": "useShorthandAssign",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-shorthand-assign",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/operator-assignment"
+      ]
+    },
+    {
+      "name": "useShorthandFunctionType",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-shorthand-function-type",
+      "fix": "safe",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-function-type"
+      ]
+    },
+    {
+      "name": "useSimpleNumberKeys",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-simple-number-keys",
+      "fix": "safe",
+      "recommended": true
+    },
+    {
+      "name": "useSimplifiedLogicExpression",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-simplified-logic-expression",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useSingleJsDocAsterisk",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-single-js-doc-asterisk",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useSingleVarDeclarator",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-single-var-declarator",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/one-var"
+      ]
+    },
+    {
+      "name": "useSolidForComponent",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/use-solid-for-component",
+      "recommended": false
+    },
+    {
+      "name": "useSortedClasses",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-sorted-classes",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useSpread",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-spread",
+      "fix": "unsafe",
+      "recommended": true
+    },
+    {
+      "name": "useStaticResponseMethods",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-static-response-methods",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useStrictMode",
+      "category": "suspicious",
+      "url": "https://biomejs.dev/linter/rules/use-strict-mode",
+      "fix": "safe",
+      "recommended": false
+    },
+    {
+      "name": "useSymbolDescription",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-symbol-description",
+      "recommended": false
+    },
+    {
+      "name": "useTemplate",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-template",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-template"
+      ]
+    },
+    {
+      "name": "useThrowNewError",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-throw-new-error",
+      "fix": "unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/throw-new-error"
+      ]
+    },
+    {
+      "name": "useThrowOnlyError",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-throw-only-error",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/only-throw-error",
+        "eslint/no-throw-literal"
+      ]
+    },
+    {
+      "name": "useTopLevelRegex",
+      "category": "performance",
+      "url": "https://biomejs.dev/linter/rules/use-top-level-regex",
+      "recommended": false
+    },
+    {
+      "name": "useTrimStartEnd",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-trim-start-end",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "unicorn/prefer-string-trim-start-end"
+      ]
+    },
+    {
+      "name": "useUnifiedTypeSignatures",
+      "category": "style",
+      "url": "https://biomejs.dev/linter/rules/use-unified-type-signatures",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useUniqueElementIds",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-unique-element-ids",
+      "recommended": false
+    },
+    {
+      "name": "useValidAnchor",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-anchor",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/anchor-is-valid"
+      ]
+    },
+    {
+      "name": "useValidAriaProps",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-aria-props",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-props"
+      ]
+    },
+    {
+      "name": "useValidAriaRole",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-aria-role",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-role"
+      ]
+    },
+    {
+      "name": "useValidAriaValues",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-aria-values",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-proptypes"
+      ]
+    },
+    {
+      "name": "useValidAutocomplete",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-autocomplete",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/autocomplete-valid"
+      ]
+    },
+    {
+      "name": "useValidForDirection",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-valid-for-direction",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/for-direction"
+      ]
+    },
+    {
+      "name": "useValidLang",
+      "category": "a11y",
+      "url": "https://biomejs.dev/linter/rules/use-valid-lang",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/lang"
+      ]
+    },
+    {
+      "name": "useValidTypeof",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-valid-typeof",
+      "fix": "unsafe",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/valid-typeof"
+      ]
+    },
+    {
+      "name": "useVueConsistentDefinePropsDeclaration",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-consistent-define-props-declaration",
+      "recommended": false
+    },
+    {
+      "name": "useVueConsistentVBindStyle",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-consistent-v-bind-style",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueConsistentVOnStyle",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-consistent-v-on-style",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueDefineMacrosOrder",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-define-macros-order",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueHyphenatedAttributes",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-hyphenated-attributes",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueMultiWordComponentNames",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-multi-word-component-names",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidTemplateRoot",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-template-root",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVBind",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-bind",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVCloak",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-cloak",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVElse",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-else",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVElseIf",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-else-if",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVHtml",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-html",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVIf",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-if",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVOn",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-on",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVOnce",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-once",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVPre",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-pre",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueValidVText",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-valid-v-text",
+      "recommended": false
+    },
+    {
+      "name": "useVueVapor",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-vapor",
+      "fix": "unsafe",
+      "recommended": false
+    },
+    {
+      "name": "useVueVForKey",
+      "category": "nursery",
+      "url": "https://biomejs.dev/linter/rules/use-vue-v-for-key",
+      "recommended": false
+    },
+    {
+      "name": "useWhile",
+      "category": "complexity",
+      "url": "https://biomejs.dev/linter/rules/use-while",
+      "fix": "safe",
+      "recommended": false,
+      "eslintRules": [
+        "sonarjs/prefer-while"
+      ]
+    },
+    {
+      "name": "useYield",
+      "category": "correctness",
+      "url": "https://biomejs.dev/linter/rules/use-yield",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/require-yield"
+      ]
+    }
+  ]
+}

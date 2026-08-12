@@ -1,0 +1,1175 @@
+{
+  "date": "2026-05-02T04:59:42.097Z",
+  "rules": [
+    {
+      "name": "adjacent-overload-signatures",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/adjacent-overload-signatures",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/adjacent-overload-signatures"
+      ]
+    },
+    {
+      "name": "array-type",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/array-type",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/array-type"
+      ]
+    },
+    {
+      "name": "ban-ts-comment",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/ban-ts-comment",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/ban-ts-comment"
+      ]
+    },
+    {
+      "name": "ban-tslint-comment",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/ban-tslint-comment",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/ban-tslint-comment"
+      ]
+    },
+    {
+      "name": "consistent-indexed-object-style",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/consistent-indexed-object-style",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/consistent-indexed-object-style"
+      ]
+    },
+    {
+      "name": "consistent-type-assertions",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/consistent-type-assertions",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/consistent-type-assertions"
+      ]
+    },
+    {
+      "name": "consistent-type-definitions",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/consistent-type-definitions",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/consistent-type-definitions"
+      ]
+    },
+    {
+      "name": "consistent-type-imports",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/consistent-type-imports",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-imports"
+      ]
+    },
+    {
+      "name": "dot-notation",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/dot-notation",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/dot-notation"
+      ]
+    },
+    {
+      "name": "eqeqeq",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/eqeqeq",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/eqeqeq"
+      ]
+    },
+    {
+      "name": "for-direction",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/for-direction",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/for-direction"
+      ]
+    },
+    {
+      "name": "no-alert",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-alert",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-alert"
+      ]
+    },
+    {
+      "name": "no-array-constructor",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-array-constructor",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-array-constructor"
+      ]
+    },
+    {
+      "name": "no-array-delete",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-array-delete",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-array-delete"
+      ]
+    },
+    {
+      "name": "no-async-promise-executor",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-async-promise-executor",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-async-promise-executor"
+      ]
+    },
+    {
+      "name": "no-bitwise",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-bitwise",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-bitwise"
+      ]
+    },
+    {
+      "name": "no-caller",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-caller",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-caller"
+      ]
+    },
+    {
+      "name": "no-case-declarations",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-case-declarations",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-case-declarations"
+      ]
+    },
+    {
+      "name": "no-class-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-class-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-class-assign"
+      ]
+    },
+    {
+      "name": "no-compare-neg-zero",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-compare-neg-zero",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-compare-neg-zero"
+      ]
+    },
+    {
+      "name": "no-cond-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-cond-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-cond-assign"
+      ]
+    },
+    {
+      "name": "no-confusing-non-null-assertion",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-confusing-non-null-assertion",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-confusing-non-null-assertion"
+      ]
+    },
+    {
+      "name": "no-console",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-console",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-console"
+      ]
+    },
+    {
+      "name": "no-constant-condition",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-constant-condition",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-constant-condition"
+      ]
+    },
+    {
+      "name": "no-continue",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-continue",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-continue"
+      ]
+    },
+    {
+      "name": "no-control-regex",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-control-regex",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-control-regex"
+      ]
+    },
+    {
+      "name": "no-debugger",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-debugger",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-debugger"
+      ]
+    },
+    {
+      "name": "no-delete-var",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-delete-var",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-delete-var"
+      ]
+    },
+    {
+      "name": "no-dupe-args",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-dupe-args",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-dupe-args"
+      ]
+    },
+    {
+      "name": "no-dupe-else-if",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-dupe-else-if",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-dupe-else-if"
+      ]
+    },
+    {
+      "name": "no-dupe-keys",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-dupe-keys",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-dupe-keys"
+      ]
+    },
+    {
+      "name": "no-duplicate-case",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-duplicate-case",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-duplicate-case"
+      ]
+    },
+    {
+      "name": "no-duplicate-enum-values",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-duplicate-enum-values",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-duplicate-enum-values"
+      ]
+    },
+    {
+      "name": "no-dynamic-delete",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-dynamic-delete",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-dynamic-delete"
+      ]
+    },
+    {
+      "name": "no-empty",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-empty",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-empty"
+      ]
+    },
+    {
+      "name": "no-empty-character-class",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-empty-character-class",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-empty-character-class"
+      ]
+    },
+    {
+      "name": "no-empty-function",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-empty-function",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-empty-function"
+      ]
+    },
+    {
+      "name": "no-empty-interface",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-empty-interface",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-empty-interface"
+      ]
+    },
+    {
+      "name": "no-empty-object-type",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-empty-object-type",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-empty-object-type"
+      ]
+    },
+    {
+      "name": "no-empty-pattern",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-empty-pattern",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-empty-pattern"
+      ]
+    },
+    {
+      "name": "no-empty-static-block",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-empty-static-block",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-empty-static-block"
+      ]
+    },
+    {
+      "name": "no-eq-null",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-eq-null",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-eq-null"
+      ]
+    },
+    {
+      "name": "no-eval",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-eval",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-eval"
+      ]
+    },
+    {
+      "name": "no-ex-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-ex-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-ex-assign"
+      ]
+    },
+    {
+      "name": "no-explicit-any",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-explicit-any",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-explicit-any"
+      ]
+    },
+    {
+      "name": "no-extra-bind",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-extra-bind",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-extra-bind"
+      ]
+    },
+    {
+      "name": "no-extra-boolean-cast",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-extra-boolean-cast",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-extra-boolean-cast"
+      ]
+    },
+    {
+      "name": "no-extra-non-null-assertion",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-extra-non-null-assertion",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-extra-non-null-assertion"
+      ]
+    },
+    {
+      "name": "no-fallthrough",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-fallthrough",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-fallthrough"
+      ]
+    },
+    {
+      "name": "no-func-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-func-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-func-assign"
+      ]
+    },
+    {
+      "name": "no-inferrable-types",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-inferrable-types",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-inferrable-types"
+      ]
+    },
+    {
+      "name": "no-inner-declarations",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-inner-declarations",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-inner-declarations"
+      ]
+    },
+    {
+      "name": "no-irregular-whitespace",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-irregular-whitespace",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-irregular-whitespace"
+      ]
+    },
+    {
+      "name": "no-iterator",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-iterator",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-iterator"
+      ]
+    },
+    {
+      "name": "no-labels",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-labels",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-labels"
+      ]
+    },
+    {
+      "name": "no-lone-blocks",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-lone-blocks",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-lone-blocks"
+      ]
+    },
+    {
+      "name": "no-lonely-if",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-lonely-if",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-lonely-if"
+      ]
+    },
+    {
+      "name": "no-loss-of-precision",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-loss-of-precision",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-loss-of-precision"
+      ]
+    },
+    {
+      "name": "no-misleading-character-class",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-misleading-character-class",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-misleading-character-class"
+      ]
+    },
+    {
+      "name": "no-misused-new",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-misused-new",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-misused-new"
+      ]
+    },
+    {
+      "name": "no-multi-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-multi-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-multi-assign"
+      ]
+    },
+    {
+      "name": "no-multi-str",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-multi-str",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-multi-str"
+      ]
+    },
+    {
+      "name": "no-namespace",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-namespace",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-namespace"
+      ]
+    },
+    {
+      "name": "no-negated-condition",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-negated-condition",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-negated-condition"
+      ]
+    },
+    {
+      "name": "no-nested-ternary",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-nested-ternary",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-nested-ternary"
+      ]
+    },
+    {
+      "name": "no-new",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-new",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-new"
+      ]
+    },
+    {
+      "name": "no-new-func",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-new-func",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-new-func"
+      ]
+    },
+    {
+      "name": "no-new-wrappers",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-new-wrappers",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-new-wrappers"
+      ]
+    },
+    {
+      "name": "no-non-null-asserted-nullish-coalescing",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-non-null-asserted-nullish-coalescing",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-non-null-asserted-nullish-coalescing"
+      ]
+    },
+    {
+      "name": "no-non-null-asserted-optional-chain",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-non-null-asserted-optional-chain",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-asserted-optional-chain"
+      ]
+    },
+    {
+      "name": "no-non-null-assertion",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-non-null-assertion",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-assertion"
+      ]
+    },
+    {
+      "name": "no-obj-calls",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-obj-calls",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-obj-calls"
+      ]
+    },
+    {
+      "name": "no-object-constructor",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-object-constructor",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-object-constructor"
+      ]
+    },
+    {
+      "name": "no-octal",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-octal",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-octal"
+      ]
+    },
+    {
+      "name": "no-octal-escape",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-octal-escape",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-octal-escape"
+      ]
+    },
+    {
+      "name": "no-plusplus",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-plusplus",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-plusplus"
+      ]
+    },
+    {
+      "name": "no-promise-executor-return",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-promise-executor-return",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-promise-executor-return"
+      ]
+    },
+    {
+      "name": "no-proto",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-proto",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-proto"
+      ]
+    },
+    {
+      "name": "no-prototype-builtins",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-prototype-builtins",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-prototype-builtins"
+      ]
+    },
+    {
+      "name": "no-regex-spaces",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-regex-spaces",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-regex-spaces"
+      ]
+    },
+    {
+      "name": "no-require-imports",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-require-imports",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-require-imports"
+      ]
+    },
+    {
+      "name": "no-return-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-return-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-return-assign"
+      ]
+    },
+    {
+      "name": "no-script-url",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-script-url",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-script-url"
+      ]
+    },
+    {
+      "name": "no-self-assign",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-self-assign",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-self-assign"
+      ]
+    },
+    {
+      "name": "no-self-compare",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-self-compare",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-self-compare"
+      ]
+    },
+    {
+      "name": "no-sequences",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-sequences",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-sequences"
+      ]
+    },
+    {
+      "name": "no-setter-return",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-setter-return",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-setter-return"
+      ]
+    },
+    {
+      "name": "no-shadow-restricted-names",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-shadow-restricted-names",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-shadow-restricted-names"
+      ]
+    },
+    {
+      "name": "no-sparse-arrays",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-sparse-arrays",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-sparse-arrays"
+      ]
+    },
+    {
+      "name": "no-template-curly-in-string",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-template-curly-in-string",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-template-curly-in-string"
+      ]
+    },
+    {
+      "name": "no-this-alias",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/no-this-alias",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/no-this-alias"
+      ]
+    },
+    {
+      "name": "no-throw-literal",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-throw-literal",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-throw-literal"
+      ]
+    },
+    {
+      "name": "no-undef-init",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-undef-init",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-undef-init"
+      ]
+    },
+    {
+      "name": "no-undefined",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-undefined",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-undefined"
+      ]
+    },
+    {
+      "name": "no-unnecessary-type-constraint",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unnecessary-type-constraint",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unnecessary-type-constraint"
+      ]
+    },
+    {
+      "name": "no-unneeded-ternary",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unneeded-ternary",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unneeded-ternary"
+      ]
+    },
+    {
+      "name": "no-unsafe-declaration-merging",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unsafe-declaration-merging",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unsafe-declaration-merging"
+      ]
+    },
+    {
+      "name": "no-unsafe-finally",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unsafe-finally",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unsafe-finally"
+      ]
+    },
+    {
+      "name": "no-unsafe-function-type",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unsafe-function-type",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unsafe-function-type"
+      ]
+    },
+    {
+      "name": "no-unsafe-negation",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unsafe-negation",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unsafe-negation"
+      ]
+    },
+    {
+      "name": "no-unused-expressions",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unused-expressions",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unused-expressions"
+      ]
+    },
+    {
+      "name": "no-unused-labels",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-unused-labels",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-unused-labels"
+      ]
+    },
+    {
+      "name": "no-useless-call",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-call",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-call"
+      ]
+    },
+    {
+      "name": "no-useless-catch",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-catch",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-catch"
+      ]
+    },
+    {
+      "name": "no-useless-computed-key",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-computed-key",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-computed-key"
+      ]
+    },
+    {
+      "name": "no-useless-concat",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-concat",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-concat"
+      ]
+    },
+    {
+      "name": "no-useless-constructor",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-constructor",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-constructor"
+      ]
+    },
+    {
+      "name": "no-useless-rename",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-useless-rename",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-useless-rename"
+      ]
+    },
+    {
+      "name": "no-var",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-var",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-var"
+      ]
+    },
+    {
+      "name": "no-with",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-with",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-with"
+      ]
+    },
+    {
+      "name": "no-wrapper-object-types",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/no-wrapper-object-types",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/no-wrapper-object-types"
+      ]
+    },
+    {
+      "name": "object-shorthand",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/object-shorthand",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/object-shorthand"
+      ]
+    },
+    {
+      "name": "operator-assignment",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/operator-assignment",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/operator-assignment"
+      ]
+    },
+    {
+      "name": "prefer-as-const",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/prefer-as-const",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/prefer-as-const"
+      ]
+    },
+    {
+      "name": "prefer-const",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/prefer-const",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/prefer-const"
+      ]
+    },
+    {
+      "name": "prefer-enum-initializers",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/prefer-enum-initializers",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/prefer-enum-initializers"
+      ]
+    },
+    {
+      "name": "prefer-exponentiation-operator",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/prefer-exponentiation-operator",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/prefer-exponentiation-operator"
+      ]
+    },
+    {
+      "name": "prefer-for-of",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/prefer-for-of",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/prefer-for-of"
+      ]
+    },
+    {
+      "name": "prefer-function-type",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/prefer-function-type",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/prefer-function-type"
+      ]
+    },
+    {
+      "name": "prefer-literal-enum-member",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/prefer-literal-enum-member",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/prefer-literal-enum-member"
+      ]
+    },
+    {
+      "name": "prefer-namespace-keyword",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/prefer-namespace-keyword",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/prefer-namespace-keyword"
+      ]
+    },
+    {
+      "name": "prefer-spread",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/prefer-spread",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/prefer-spread"
+      ]
+    },
+    {
+      "name": "prefer-template",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/prefer-template",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/prefer-template"
+      ]
+    },
+    {
+      "name": "radix",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/radix",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/radix"
+      ]
+    },
+    {
+      "name": "require-yield",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/require-yield",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/require-yield"
+      ]
+    },
+    {
+      "name": "triple-slash-reference",
+      "category": "eslint",
+      "url": "https://typescript-eslint.io/rules/triple-slash-reference",
+      "fix": "none",
+      "eslintRules": [
+        "@typescript-eslint/triple-slash-reference"
+      ]
+    },
+    {
+      "name": "use-isnan",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/use-isnan",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/use-isnan"
+      ]
+    },
+    {
+      "name": "valid-typeof",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/valid-typeof",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/valid-typeof"
+      ]
+    },
+    {
+      "name": "vars-on-top",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/vars-on-top",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/vars-on-top"
+      ]
+    },
+    {
+      "name": "yoda",
+      "category": "eslint",
+      "url": "https://eslint.org/docs/latest/rules/yoda",
+      "fix": "none",
+      "eslintRules": [
+        "eslint/yoda"
+      ]
+    }
+  ]
+}

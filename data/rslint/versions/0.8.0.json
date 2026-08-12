@@ -1,0 +1,4397 @@
+{
+  "date": "2026-08-12T09:01:42.149Z",
+  "rules": [
+    {
+      "name": "@typescript-eslint/adjacent-overload-signatures",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/adjacent-overload-signatures",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/adjacent-overload-signatures"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/array-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/array-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/array-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/await-thenable",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/await-thenable",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/await-thenable"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/ban-ts-comment",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/ban-ts-comment",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/ban-ts-comment"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/ban-tslint-comment",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/ban-tslint-comment",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/ban-tslint-comment"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/class-literal-property-style",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/class-literal-property-style",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/class-literal-property-style"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/class-methods-use-this",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/class-methods-use-this",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/class-methods-use-this"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-generic-constructors",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-generic-constructors",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-generic-constructors"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-indexed-object-style",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-indexed-object-style",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-indexed-object-style"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-return",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-return",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-return"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-type-assertions",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-type-assertions",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-assertions"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-type-definitions",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-type-definitions",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-definitions"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-type-exports",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-type-exports",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-exports"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/consistent-type-imports",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/consistent-type-imports",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/consistent-type-imports"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/default-param-last",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/default-param-last",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/default-param-last"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/dot-notation",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/dot-notation",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/dot-notation"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/explicit-function-return-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/explicit-function-return-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/explicit-function-return-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/explicit-member-accessibility",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/explicit-member-accessibility",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/explicit-member-accessibility"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/explicit-module-boundary-types",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/explicit-module-boundary-types",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/explicit-module-boundary-types"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/init-declarations",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/init-declarations",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/init-declarations"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/max-params",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/max-params",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/max-params"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/member-ordering",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/member-ordering",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/member-ordering"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/method-signature-style",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/method-signature-style",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/method-signature-style"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/naming-convention",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/naming-convention",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/naming-convention"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-array-constructor",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-array-constructor",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-array-constructor"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-array-delete",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-array-delete",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-array-delete"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-base-to-string",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-base-to-string",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-base-to-string"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-confusing-non-null-assertion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-confusing-non-null-assertion",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-confusing-non-null-assertion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-confusing-void-expression",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-confusing-void-expression",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-confusing-void-expression"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-deprecated",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-deprecated",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-deprecated"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-dupe-class-members",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-dupe-class-members",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-dupe-class-members"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-duplicate-enum-values",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-duplicate-enum-values",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-duplicate-enum-values"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-duplicate-type-constituents",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-duplicate-type-constituents",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-duplicate-type-constituents"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-dynamic-delete",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-dynamic-delete",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-dynamic-delete"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-empty-function",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-empty-function",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-empty-function"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-empty-interface",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-empty-interface",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-empty-interface"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-empty-object-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-empty-object-type",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-empty-object-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-explicit-any",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-explicit-any",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-explicit-any"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-extra-non-null-assertion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-extra-non-null-assertion",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-extra-non-null-assertion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-extraneous-class",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-extraneous-class",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-extraneous-class"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-floating-promises",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-floating-promises",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-floating-promises"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-for-in-array",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-for-in-array",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-for-in-array"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-implied-eval",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-implied-eval",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-implied-eval"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-import-type-side-effects",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-import-type-side-effects",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-import-type-side-effects"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-inferrable-types",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-inferrable-types",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-inferrable-types"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-invalid-this",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-invalid-this",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-invalid-this"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-invalid-void-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-invalid-void-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-invalid-void-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-loop-func",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-loop-func",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-loop-func"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-magic-numbers",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-magic-numbers",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-magic-numbers"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-meaningless-void-operator",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-meaningless-void-operator",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-meaningless-void-operator"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-misused-new",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-misused-new",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-misused-new"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-misused-promises",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-misused-promises",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-misused-promises"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-misused-spread",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-misused-spread",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-misused-spread"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-mixed-enums",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-mixed-enums",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-mixed-enums"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-namespace",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-namespace",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-namespace"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-non-null-asserted-nullish-coalescing",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-non-null-asserted-nullish-coalescing",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-asserted-nullish-coalescing"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-non-null-asserted-optional-chain",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-non-null-asserted-optional-chain",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-asserted-optional-chain"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-non-null-assertion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-non-null-assertion",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-non-null-assertion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-redeclare",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-redeclare",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-redeclare"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-redundant-type-constituents",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-redundant-type-constituents",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-redundant-type-constituents"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-require-imports",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-require-imports",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-require-imports"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-restricted-imports",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-restricted-imports",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-restricted-imports"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-restricted-types",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-restricted-types",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-restricted-types"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-shadow",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-shadow",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-shadow"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-this-alias",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-this-alias",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-this-alias"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-type-alias",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-type-alias",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-type-alias"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-boolean-literal-compare",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-boolean-literal-compare",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-boolean-literal-compare"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-condition",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-condition",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-condition"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-parameter-property-assignment",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-parameter-property-assignment",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-parameter-property-assignment"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-qualifier",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-qualifier",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-qualifier"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-template-expression",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-template-expression",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-template-expression"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-type-arguments",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-type-arguments",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-arguments"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-type-assertion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-type-assertion",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-assertion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-type-constraint",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-type-constraint",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-constraint"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-type-conversion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-type-conversion",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-conversion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unnecessary-type-parameters",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unnecessary-type-parameters",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unnecessary-type-parameters"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-argument",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-argument",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-argument"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-assignment",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-assignment",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-assignment"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-call",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-call",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-call"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-declaration-merging",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-declaration-merging",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-declaration-merging"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-enum-comparison",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-enum-comparison",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-enum-comparison"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-function-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-function-type",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-function-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-member-access",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-member-access",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-member-access"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-return",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-return",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-return"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-type-assertion",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-type-assertion",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-type-assertion"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unsafe-unary-minus",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unsafe-unary-minus",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unsafe-unary-minus"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unused-expressions",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unused-expressions",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unused-expressions"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unused-private-class-members",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unused-private-class-members",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-unused-private-class-members"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-unused-vars",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-unused-vars",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-unused-vars"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-use-before-define",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-use-before-define",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-use-before-define"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-useless-constructor",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-useless-constructor",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-useless-constructor"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-useless-default-assignment",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-useless-default-assignment",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-useless-default-assignment"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-useless-empty-export",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-useless-empty-export",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-useless-empty-export"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-var-requires",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-var-requires",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/no-var-requires"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/no-wrapper-object-types",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/no-wrapper-object-types",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/no-wrapper-object-types"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/non-nullable-type-assertion-style",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/non-nullable-type-assertion-style",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/non-nullable-type-assertion-style"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/only-throw-error",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/only-throw-error",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/only-throw-error"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/parameter-properties",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/parameter-properties",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/parameter-properties"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-as-const",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-as-const",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-as-const"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-destructuring",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-destructuring",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-destructuring"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-enum-initializers",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-enum-initializers",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-enum-initializers"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-find",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-find",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-find"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-for-of",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-for-of",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-for-of"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-function-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-function-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-function-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-includes",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-includes",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-includes"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-literal-enum-member",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-literal-enum-member",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-literal-enum-member"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-namespace-keyword",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-namespace-keyword",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-namespace-keyword"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-nullish-coalescing",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-nullish-coalescing",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-nullish-coalescing"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-optional-chain",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-optional-chain",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-optional-chain"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-promise-reject-errors",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-promise-reject-errors",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/prefer-promise-reject-errors"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-readonly",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-readonly",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-readonly"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-reduce-type-parameter",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-reduce-type-parameter",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-reduce-type-parameter"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-regexp-exec",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-regexp-exec",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-regexp-exec"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-return-this-type",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-return-this-type",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-return-this-type"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-string-starts-ends-with",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-string-starts-ends-with",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-string-starts-ends-with"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/prefer-ts-expect-error",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/prefer-ts-expect-error",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/prefer-ts-expect-error"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/promise-function-async",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/promise-function-async",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/promise-function-async"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/related-getter-setter-pairs",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/related-getter-setter-pairs",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/related-getter-setter-pairs"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/require-array-sort-compare",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/require-array-sort-compare",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/require-array-sort-compare"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/require-await",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/require-await",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/require-await"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/restrict-plus-operands",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/restrict-plus-operands",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/restrict-plus-operands"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/restrict-template-expressions",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/restrict-template-expressions",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/restrict-template-expressions"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/return-await",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/return-await",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/return-await"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/strict-boolean-expressions",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/strict-boolean-expressions",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/strict-boolean-expressions"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/strict-void-return",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/strict-void-return",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/strict-void-return"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/switch-exhaustiveness-check",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/switch-exhaustiveness-check",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/switch-exhaustiveness-check"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/triple-slash-reference",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/triple-slash-reference",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/triple-slash-reference"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/unbound-method",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/unbound-method",
+      "recommended": true,
+      "eslintRules": [
+        "@typescript-eslint/unbound-method"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/unified-signatures",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/unified-signatures",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/unified-signatures"
+      ]
+    },
+    {
+      "name": "@typescript-eslint/use-unknown-in-catch-callback-variable",
+      "category": "@typescript-eslint",
+      "url": "https://rslint.rs/rules/typescript-eslint/use-unknown-in-catch-callback-variable",
+      "recommended": false,
+      "eslintRules": [
+        "@typescript-eslint/use-unknown-in-catch-callback-variable"
+      ]
+    },
+    {
+      "name": "accessor-pairs",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/accessor-pairs",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/accessor-pairs"
+      ]
+    },
+    {
+      "name": "array-callback-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/array-callback-return",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/array-callback-return"
+      ]
+    },
+    {
+      "name": "arrow-body-style",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/arrow-body-style",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/arrow-body-style"
+      ]
+    },
+    {
+      "name": "complexity",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/complexity",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/complexity"
+      ]
+    },
+    {
+      "name": "consistent-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/consistent-return",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/consistent-return"
+      ]
+    },
+    {
+      "name": "constructor-super",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/constructor-super",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/constructor-super"
+      ]
+    },
+    {
+      "name": "curly",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/curly",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/curly"
+      ]
+    },
+    {
+      "name": "default-case",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/default-case",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/default-case"
+      ]
+    },
+    {
+      "name": "default-case-last",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/default-case-last",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/default-case-last"
+      ]
+    },
+    {
+      "name": "dot-notation",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/dot-notation",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/dot-notation"
+      ]
+    },
+    {
+      "name": "eqeqeq",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/eqeqeq",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/eqeqeq"
+      ]
+    },
+    {
+      "name": "for-direction",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/for-direction",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/for-direction"
+      ]
+    },
+    {
+      "name": "getter-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/getter-return",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/getter-return"
+      ]
+    },
+    {
+      "name": "guard-for-in",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/guard-for-in",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/guard-for-in"
+      ]
+    },
+    {
+      "name": "import/default",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/default",
+      "recommended": true,
+      "eslintRules": [
+        "import/default"
+      ]
+    },
+    {
+      "name": "import/first",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/first",
+      "recommended": false,
+      "eslintRules": [
+        "import/first"
+      ]
+    },
+    {
+      "name": "import/namespace",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/namespace",
+      "recommended": true,
+      "eslintRules": [
+        "import/namespace"
+      ]
+    },
+    {
+      "name": "import/newline-after-import",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/newline-after-import",
+      "recommended": false,
+      "eslintRules": [
+        "import/newline-after-import"
+      ]
+    },
+    {
+      "name": "import/no-cycle",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-cycle",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-cycle"
+      ]
+    },
+    {
+      "name": "import/no-default-export",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-default-export",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-default-export"
+      ]
+    },
+    {
+      "name": "import/no-duplicates",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-duplicates",
+      "recommended": true,
+      "eslintRules": [
+        "import/no-duplicates"
+      ]
+    },
+    {
+      "name": "import/no-mutable-exports",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-mutable-exports",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-mutable-exports"
+      ]
+    },
+    {
+      "name": "import/no-restricted-paths",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-restricted-paths",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-restricted-paths"
+      ]
+    },
+    {
+      "name": "import/no-self-import",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-self-import",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-self-import"
+      ]
+    },
+    {
+      "name": "import/no-webpack-loader-syntax",
+      "category": "import",
+      "url": "https://rslint.rs/rules/import/no-webpack-loader-syntax",
+      "recommended": false,
+      "eslintRules": [
+        "import/no-webpack-loader-syntax"
+      ]
+    },
+    {
+      "name": "jest/expect-expect",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/expect-expect",
+      "recommended": true,
+      "eslintRules": [
+        "jest/expect-expect"
+      ]
+    },
+    {
+      "name": "jest/max-expects",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/max-expects",
+      "recommended": false,
+      "eslintRules": [
+        "jest/max-expects"
+      ]
+    },
+    {
+      "name": "jest/max-nested-describe",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/max-nested-describe",
+      "recommended": false,
+      "eslintRules": [
+        "jest/max-nested-describe"
+      ]
+    },
+    {
+      "name": "jest/no-alias-methods",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-alias-methods",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-alias-methods"
+      ]
+    },
+    {
+      "name": "jest/no-commented-out-tests",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-commented-out-tests",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-commented-out-tests"
+      ]
+    },
+    {
+      "name": "jest/no-conditional-expect",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-conditional-expect",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-conditional-expect"
+      ]
+    },
+    {
+      "name": "jest/no-conditional-in-test",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-conditional-in-test",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-conditional-in-test"
+      ]
+    },
+    {
+      "name": "jest/no-confusing-set-timeout",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-confusing-set-timeout",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-confusing-set-timeout"
+      ]
+    },
+    {
+      "name": "jest/no-deprecated-functions",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-deprecated-functions",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-deprecated-functions"
+      ]
+    },
+    {
+      "name": "jest/no-disabled-tests",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-disabled-tests",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-disabled-tests"
+      ]
+    },
+    {
+      "name": "jest/no-done-callback",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-done-callback",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-done-callback"
+      ]
+    },
+    {
+      "name": "jest/no-duplicate-hooks",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-duplicate-hooks",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-duplicate-hooks"
+      ]
+    },
+    {
+      "name": "jest/no-export",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-export",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-export"
+      ]
+    },
+    {
+      "name": "jest/no-focused-tests",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-focused-tests",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-focused-tests"
+      ]
+    },
+    {
+      "name": "jest/no-hooks",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-hooks",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-hooks"
+      ]
+    },
+    {
+      "name": "jest/no-identical-title",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-identical-title",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-identical-title"
+      ]
+    },
+    {
+      "name": "jest/no-interpolation-in-snapshots",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-interpolation-in-snapshots",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-interpolation-in-snapshots"
+      ]
+    },
+    {
+      "name": "jest/no-jasmine-globals",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-jasmine-globals",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-jasmine-globals"
+      ]
+    },
+    {
+      "name": "jest/no-mocks-import",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-mocks-import",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-mocks-import"
+      ]
+    },
+    {
+      "name": "jest/no-restricted-jest-methods",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-restricted-jest-methods",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-restricted-jest-methods"
+      ]
+    },
+    {
+      "name": "jest/no-restricted-matchers",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-restricted-matchers",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-restricted-matchers"
+      ]
+    },
+    {
+      "name": "jest/no-standalone-expect",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-standalone-expect",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-standalone-expect"
+      ]
+    },
+    {
+      "name": "jest/no-test-prefixes",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-test-prefixes",
+      "recommended": true,
+      "eslintRules": [
+        "jest/no-test-prefixes"
+      ]
+    },
+    {
+      "name": "jest/no-unneeded-async-expect-function",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/no-unneeded-async-expect-function",
+      "recommended": false,
+      "eslintRules": [
+        "jest/no-unneeded-async-expect-function"
+      ]
+    },
+    {
+      "name": "jest/prefer-called-with",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-called-with",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-called-with"
+      ]
+    },
+    {
+      "name": "jest/prefer-comparison-matcher",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-comparison-matcher",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-comparison-matcher"
+      ]
+    },
+    {
+      "name": "jest/prefer-each",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-each",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-each"
+      ]
+    },
+    {
+      "name": "jest/prefer-equality-matcher",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-equality-matcher",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-equality-matcher"
+      ]
+    },
+    {
+      "name": "jest/prefer-expect-resolves",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-expect-resolves",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-expect-resolves"
+      ]
+    },
+    {
+      "name": "jest/prefer-hooks-in-order",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-hooks-in-order",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-hooks-in-order"
+      ]
+    },
+    {
+      "name": "jest/prefer-hooks-on-top",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-hooks-on-top",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-hooks-on-top"
+      ]
+    },
+    {
+      "name": "jest/prefer-jest-mocked",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-jest-mocked",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-jest-mocked"
+      ]
+    },
+    {
+      "name": "jest/prefer-spy-on",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-spy-on",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-spy-on"
+      ]
+    },
+    {
+      "name": "jest/prefer-strict-equal",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-strict-equal",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-strict-equal"
+      ]
+    },
+    {
+      "name": "jest/prefer-to-be",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-to-be",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-to-be"
+      ]
+    },
+    {
+      "name": "jest/prefer-to-contain",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-to-contain",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-to-contain"
+      ]
+    },
+    {
+      "name": "jest/prefer-to-have-been-called",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-to-have-been-called",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-to-have-been-called"
+      ]
+    },
+    {
+      "name": "jest/prefer-to-have-been-called-times",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-to-have-been-called-times",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-to-have-been-called-times"
+      ]
+    },
+    {
+      "name": "jest/prefer-to-have-length",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-to-have-length",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-to-have-length"
+      ]
+    },
+    {
+      "name": "jest/prefer-todo",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/prefer-todo",
+      "recommended": false,
+      "eslintRules": [
+        "jest/prefer-todo"
+      ]
+    },
+    {
+      "name": "jest/require-hook",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/require-hook",
+      "recommended": false,
+      "eslintRules": [
+        "jest/require-hook"
+      ]
+    },
+    {
+      "name": "jest/require-to-throw-message",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/require-to-throw-message",
+      "recommended": false,
+      "eslintRules": [
+        "jest/require-to-throw-message"
+      ]
+    },
+    {
+      "name": "jest/require-top-level-describe",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/require-top-level-describe",
+      "recommended": false,
+      "eslintRules": [
+        "jest/require-top-level-describe"
+      ]
+    },
+    {
+      "name": "jest/valid-describe-callback",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/valid-describe-callback",
+      "recommended": true,
+      "eslintRules": [
+        "jest/valid-describe-callback"
+      ]
+    },
+    {
+      "name": "jest/valid-expect",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/valid-expect",
+      "recommended": true,
+      "eslintRules": [
+        "jest/valid-expect"
+      ]
+    },
+    {
+      "name": "jest/valid-title",
+      "category": "jest",
+      "url": "https://rslint.rs/rules/jest/valid-title",
+      "recommended": true,
+      "eslintRules": [
+        "jest/valid-title"
+      ]
+    },
+    {
+      "name": "jsx-a11y/alt-text",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/alt-text",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/alt-text"
+      ]
+    },
+    {
+      "name": "jsx-a11y/anchor-ambiguous-text",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/anchor-ambiguous-text",
+      "recommended": false,
+      "eslintRules": [
+        "jsx-a11y/anchor-ambiguous-text"
+      ]
+    },
+    {
+      "name": "jsx-a11y/anchor-has-content",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/anchor-has-content",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/anchor-has-content"
+      ]
+    },
+    {
+      "name": "jsx-a11y/anchor-is-valid",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/anchor-is-valid",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/anchor-is-valid"
+      ]
+    },
+    {
+      "name": "jsx-a11y/aria-activedescendant-has-tabindex",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/aria-activedescendant-has-tabindex",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-activedescendant-has-tabindex"
+      ]
+    },
+    {
+      "name": "jsx-a11y/aria-props",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/aria-props",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-props"
+      ]
+    },
+    {
+      "name": "jsx-a11y/aria-proptypes",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/aria-proptypes",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-proptypes"
+      ]
+    },
+    {
+      "name": "jsx-a11y/aria-role",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/aria-role",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-role"
+      ]
+    },
+    {
+      "name": "jsx-a11y/aria-unsupported-elements",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/aria-unsupported-elements",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/aria-unsupported-elements"
+      ]
+    },
+    {
+      "name": "jsx-a11y/autocomplete-valid",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/autocomplete-valid",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/autocomplete-valid"
+      ]
+    },
+    {
+      "name": "jsx-a11y/click-events-have-key-events",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/click-events-have-key-events",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/click-events-have-key-events"
+      ]
+    },
+    {
+      "name": "jsx-a11y/control-has-associated-label",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/control-has-associated-label",
+      "recommended": false,
+      "eslintRules": [
+        "jsx-a11y/control-has-associated-label"
+      ]
+    },
+    {
+      "name": "jsx-a11y/heading-has-content",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/heading-has-content",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/heading-has-content"
+      ]
+    },
+    {
+      "name": "jsx-a11y/html-has-lang",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/html-has-lang",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/html-has-lang"
+      ]
+    },
+    {
+      "name": "jsx-a11y/iframe-has-title",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/iframe-has-title",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/iframe-has-title"
+      ]
+    },
+    {
+      "name": "jsx-a11y/img-redundant-alt",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/img-redundant-alt",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/img-redundant-alt"
+      ]
+    },
+    {
+      "name": "jsx-a11y/interactive-supports-focus",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/interactive-supports-focus",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/interactive-supports-focus"
+      ]
+    },
+    {
+      "name": "jsx-a11y/label-has-associated-control",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/label-has-associated-control",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/label-has-associated-control"
+      ]
+    },
+    {
+      "name": "jsx-a11y/lang",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/lang",
+      "recommended": false,
+      "eslintRules": [
+        "jsx-a11y/lang"
+      ]
+    },
+    {
+      "name": "jsx-a11y/media-has-caption",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/media-has-caption",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/media-has-caption"
+      ]
+    },
+    {
+      "name": "jsx-a11y/mouse-events-have-key-events",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/mouse-events-have-key-events",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/mouse-events-have-key-events"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-access-key",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-access-key",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-access-key"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-aria-hidden-on-focusable",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-aria-hidden-on-focusable",
+      "recommended": false,
+      "eslintRules": [
+        "jsx-a11y/no-aria-hidden-on-focusable"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-autofocus",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-autofocus",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-autofocus"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-distracting-elements",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-distracting-elements",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-distracting-elements"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-interactive-element-to-noninteractive-role",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-interactive-element-to-noninteractive-role",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-interactive-element-to-noninteractive-role"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-noninteractive-element-interactions",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-noninteractive-element-interactions",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-noninteractive-element-interactions"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-noninteractive-element-to-interactive-role",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-noninteractive-element-to-interactive-role",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-noninteractive-element-to-interactive-role"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-noninteractive-tabindex",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-noninteractive-tabindex",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-noninteractive-tabindex"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-redundant-roles",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-redundant-roles",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-redundant-roles"
+      ]
+    },
+    {
+      "name": "jsx-a11y/no-static-element-interactions",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/no-static-element-interactions",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/no-static-element-interactions"
+      ]
+    },
+    {
+      "name": "jsx-a11y/prefer-tag-over-role",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/prefer-tag-over-role",
+      "recommended": false,
+      "eslintRules": [
+        "jsx-a11y/prefer-tag-over-role"
+      ]
+    },
+    {
+      "name": "jsx-a11y/role-has-required-aria-props",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/role-has-required-aria-props",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/role-has-required-aria-props"
+      ]
+    },
+    {
+      "name": "jsx-a11y/role-supports-aria-props",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/role-supports-aria-props",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/role-supports-aria-props"
+      ]
+    },
+    {
+      "name": "jsx-a11y/scope",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/scope",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/scope"
+      ]
+    },
+    {
+      "name": "jsx-a11y/tabindex-no-positive",
+      "category": "jsx-a11y",
+      "url": "https://rslint.rs/rules/jsx-a11y/tabindex-no-positive",
+      "recommended": true,
+      "eslintRules": [
+        "jsx-a11y/tabindex-no-positive"
+      ]
+    },
+    {
+      "name": "max-depth",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/max-depth",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/max-depth"
+      ]
+    },
+    {
+      "name": "max-lines",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/max-lines",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/max-lines"
+      ]
+    },
+    {
+      "name": "max-lines-per-function",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/max-lines-per-function",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/max-lines-per-function"
+      ]
+    },
+    {
+      "name": "max-nested-callbacks",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/max-nested-callbacks",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/max-nested-callbacks"
+      ]
+    },
+    {
+      "name": "max-params",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/max-params",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/max-params"
+      ]
+    },
+    {
+      "name": "no-alert",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-alert",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-alert"
+      ]
+    },
+    {
+      "name": "no-async-promise-executor",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-async-promise-executor",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-async-promise-executor"
+      ]
+    },
+    {
+      "name": "no-await-in-loop",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-await-in-loop",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-await-in-loop"
+      ]
+    },
+    {
+      "name": "no-bitwise",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-bitwise",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-bitwise"
+      ]
+    },
+    {
+      "name": "no-caller",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-caller",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-caller"
+      ]
+    },
+    {
+      "name": "no-case-declarations",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-case-declarations",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-case-declarations"
+      ]
+    },
+    {
+      "name": "no-class-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-class-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-class-assign"
+      ]
+    },
+    {
+      "name": "no-compare-neg-zero",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-compare-neg-zero",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-compare-neg-zero"
+      ]
+    },
+    {
+      "name": "no-cond-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-cond-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-cond-assign"
+      ]
+    },
+    {
+      "name": "no-console",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-console",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-console"
+      ]
+    },
+    {
+      "name": "no-const-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-const-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-const-assign"
+      ]
+    },
+    {
+      "name": "no-constant-binary-expression",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-constant-binary-expression",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-constant-binary-expression"
+      ]
+    },
+    {
+      "name": "no-constant-condition",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-constant-condition",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-constant-condition"
+      ]
+    },
+    {
+      "name": "no-constructor-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-constructor-return",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-constructor-return"
+      ]
+    },
+    {
+      "name": "no-control-regex",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-control-regex",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-control-regex"
+      ]
+    },
+    {
+      "name": "no-debugger",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-debugger",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-debugger"
+      ]
+    },
+    {
+      "name": "no-delete-var",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-delete-var",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-delete-var"
+      ]
+    },
+    {
+      "name": "no-dupe-args",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-dupe-args",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-args"
+      ]
+    },
+    {
+      "name": "no-dupe-class-members",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-dupe-class-members",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-class-members"
+      ]
+    },
+    {
+      "name": "no-dupe-else-if",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-dupe-else-if",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-else-if"
+      ]
+    },
+    {
+      "name": "no-dupe-keys",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-dupe-keys",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-dupe-keys"
+      ]
+    },
+    {
+      "name": "no-duplicate-case",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-duplicate-case",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-duplicate-case"
+      ]
+    },
+    {
+      "name": "no-duplicate-imports",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-duplicate-imports",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-duplicate-imports"
+      ]
+    },
+    {
+      "name": "no-else-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-else-return",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-else-return"
+      ]
+    },
+    {
+      "name": "no-empty",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-empty",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty"
+      ]
+    },
+    {
+      "name": "no-empty-character-class",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-empty-character-class",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty-character-class"
+      ]
+    },
+    {
+      "name": "no-empty-function",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-empty-function",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-empty-function"
+      ]
+    },
+    {
+      "name": "no-empty-pattern",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-empty-pattern",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty-pattern"
+      ]
+    },
+    {
+      "name": "no-empty-static-block",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-empty-static-block",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-empty-static-block"
+      ]
+    },
+    {
+      "name": "no-eval",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-eval",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-eval"
+      ]
+    },
+    {
+      "name": "no-ex-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-ex-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-ex-assign"
+      ]
+    },
+    {
+      "name": "no-extend-native",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-extend-native",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-extend-native"
+      ]
+    },
+    {
+      "name": "no-extra-bind",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-extra-bind",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-extra-bind"
+      ]
+    },
+    {
+      "name": "no-extra-boolean-cast",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-extra-boolean-cast",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-extra-boolean-cast"
+      ]
+    },
+    {
+      "name": "no-extra-label",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-extra-label",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-extra-label"
+      ]
+    },
+    {
+      "name": "no-fallthrough",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-fallthrough",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-fallthrough"
+      ]
+    },
+    {
+      "name": "no-func-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-func-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-func-assign"
+      ]
+    },
+    {
+      "name": "no-global-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-global-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-global-assign"
+      ]
+    },
+    {
+      "name": "no-implicit-coercion",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-implicit-coercion",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-implicit-coercion"
+      ]
+    },
+    {
+      "name": "no-implied-eval",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-implied-eval",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-implied-eval"
+      ]
+    },
+    {
+      "name": "no-import-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-import-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-import-assign"
+      ]
+    },
+    {
+      "name": "no-inner-declarations",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-inner-declarations",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-inner-declarations"
+      ]
+    },
+    {
+      "name": "no-invalid-regexp",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-invalid-regexp",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-invalid-regexp"
+      ]
+    },
+    {
+      "name": "no-irregular-whitespace",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-irregular-whitespace",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-irregular-whitespace"
+      ]
+    },
+    {
+      "name": "no-iterator",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-iterator",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-iterator"
+      ]
+    },
+    {
+      "name": "no-label-var",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-label-var",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-label-var"
+      ]
+    },
+    {
+      "name": "no-labels",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-labels",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-labels"
+      ]
+    },
+    {
+      "name": "no-lone-blocks",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-lone-blocks",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-lone-blocks"
+      ]
+    },
+    {
+      "name": "no-loop-func",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-loop-func",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-loop-func"
+      ]
+    },
+    {
+      "name": "no-loss-of-precision",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-loss-of-precision",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-loss-of-precision"
+      ]
+    },
+    {
+      "name": "no-misleading-character-class",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-misleading-character-class",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-misleading-character-class"
+      ]
+    },
+    {
+      "name": "no-multi-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-multi-assign",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-multi-assign"
+      ]
+    },
+    {
+      "name": "no-multi-str",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-multi-str",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-multi-str"
+      ]
+    },
+    {
+      "name": "no-nested-ternary",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-nested-ternary",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-nested-ternary"
+      ]
+    },
+    {
+      "name": "no-new",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new"
+      ]
+    },
+    {
+      "name": "no-new-func",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new-func",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new-func"
+      ]
+    },
+    {
+      "name": "no-new-native-nonconstructor",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new-native-nonconstructor",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-new-native-nonconstructor"
+      ]
+    },
+    {
+      "name": "no-new-object",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new-object",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new-object"
+      ]
+    },
+    {
+      "name": "no-new-symbol",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new-symbol",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new-symbol"
+      ]
+    },
+    {
+      "name": "no-new-wrappers",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-new-wrappers",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-new-wrappers"
+      ]
+    },
+    {
+      "name": "no-nonoctal-decimal-escape",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-nonoctal-decimal-escape",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-nonoctal-decimal-escape"
+      ]
+    },
+    {
+      "name": "no-obj-calls",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-obj-calls",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-obj-calls"
+      ]
+    },
+    {
+      "name": "no-octal",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-octal",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-octal"
+      ]
+    },
+    {
+      "name": "no-octal-escape",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-octal-escape",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-octal-escape"
+      ]
+    },
+    {
+      "name": "no-param-reassign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-param-reassign",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-param-reassign"
+      ]
+    },
+    {
+      "name": "no-proto",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-proto",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-proto"
+      ]
+    },
+    {
+      "name": "no-prototype-builtins",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-prototype-builtins",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-prototype-builtins"
+      ]
+    },
+    {
+      "name": "no-redeclare",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-redeclare",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-redeclare"
+      ]
+    },
+    {
+      "name": "no-regex-spaces",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-regex-spaces",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-regex-spaces"
+      ]
+    },
+    {
+      "name": "no-restricted-globals",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-restricted-globals",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-restricted-globals"
+      ]
+    },
+    {
+      "name": "no-restricted-imports",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-restricted-imports",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-restricted-imports"
+      ]
+    },
+    {
+      "name": "no-restricted-syntax",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-restricted-syntax",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-restricted-syntax"
+      ]
+    },
+    {
+      "name": "no-return-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-return-assign",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-return-assign"
+      ]
+    },
+    {
+      "name": "no-script-url",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-script-url",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-script-url"
+      ]
+    },
+    {
+      "name": "no-self-assign",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-self-assign",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-self-assign"
+      ]
+    },
+    {
+      "name": "no-self-compare",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-self-compare",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-self-compare"
+      ]
+    },
+    {
+      "name": "no-sequences",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-sequences",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-sequences"
+      ]
+    },
+    {
+      "name": "no-setter-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-setter-return",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-setter-return"
+      ]
+    },
+    {
+      "name": "no-shadow",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-shadow",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-shadow"
+      ]
+    },
+    {
+      "name": "no-shadow-restricted-names",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-shadow-restricted-names",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-shadow-restricted-names"
+      ]
+    },
+    {
+      "name": "no-sparse-arrays",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-sparse-arrays",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-sparse-arrays"
+      ]
+    },
+    {
+      "name": "no-template-curly-in-string",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-template-curly-in-string",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-template-curly-in-string"
+      ]
+    },
+    {
+      "name": "no-this-before-super",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-this-before-super",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-this-before-super"
+      ]
+    },
+    {
+      "name": "no-throw-literal",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-throw-literal",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-throw-literal"
+      ]
+    },
+    {
+      "name": "no-unassigned-vars",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unassigned-vars",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unassigned-vars"
+      ]
+    },
+    {
+      "name": "no-undef",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-undef",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-undef"
+      ]
+    },
+    {
+      "name": "no-undef-init",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-undef-init",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-undef-init"
+      ]
+    },
+    {
+      "name": "no-unexpected-multiline",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unexpected-multiline",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unexpected-multiline"
+      ]
+    },
+    {
+      "name": "no-unmodified-loop-condition",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unmodified-loop-condition",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-unmodified-loop-condition"
+      ]
+    },
+    {
+      "name": "no-unneeded-ternary",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unneeded-ternary",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-unneeded-ternary"
+      ]
+    },
+    {
+      "name": "no-unreachable",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unreachable",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unreachable"
+      ]
+    },
+    {
+      "name": "no-unreachable-loop",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unreachable-loop",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-unreachable-loop"
+      ]
+    },
+    {
+      "name": "no-unsafe-finally",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unsafe-finally",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-finally"
+      ]
+    },
+    {
+      "name": "no-unsafe-negation",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unsafe-negation",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-negation"
+      ]
+    },
+    {
+      "name": "no-unsafe-optional-chaining",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unsafe-optional-chaining",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unsafe-optional-chaining"
+      ]
+    },
+    {
+      "name": "no-unused-expressions",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unused-expressions",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-unused-expressions"
+      ]
+    },
+    {
+      "name": "no-unused-labels",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unused-labels",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unused-labels"
+      ]
+    },
+    {
+      "name": "no-unused-private-class-members",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unused-private-class-members",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unused-private-class-members"
+      ]
+    },
+    {
+      "name": "no-unused-vars",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-unused-vars",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-unused-vars"
+      ]
+    },
+    {
+      "name": "no-useless-assignment",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-assignment",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-assignment"
+      ]
+    },
+    {
+      "name": "no-useless-backreference",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-backreference",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-backreference"
+      ]
+    },
+    {
+      "name": "no-useless-call",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-call",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-call"
+      ]
+    },
+    {
+      "name": "no-useless-catch",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-catch",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-catch"
+      ]
+    },
+    {
+      "name": "no-useless-computed-key",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-computed-key",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-computed-key"
+      ]
+    },
+    {
+      "name": "no-useless-concat",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-concat",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-concat"
+      ]
+    },
+    {
+      "name": "no-useless-constructor",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-constructor",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-constructor"
+      ]
+    },
+    {
+      "name": "no-useless-escape",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-escape",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-useless-escape"
+      ]
+    },
+    {
+      "name": "no-useless-rename",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-rename",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-rename"
+      ]
+    },
+    {
+      "name": "no-useless-return",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-useless-return",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/no-useless-return"
+      ]
+    },
+    {
+      "name": "no-var",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-var",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-var"
+      ]
+    },
+    {
+      "name": "no-with",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/no-with",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/no-with"
+      ]
+    },
+    {
+      "name": "object-shorthand",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/object-shorthand",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/object-shorthand"
+      ]
+    },
+    {
+      "name": "one-var",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/one-var",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/one-var"
+      ]
+    },
+    {
+      "name": "prefer-arrow-callback",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-arrow-callback",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-arrow-callback"
+      ]
+    },
+    {
+      "name": "prefer-const",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-const",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-const"
+      ]
+    },
+    {
+      "name": "prefer-destructuring",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-destructuring",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-destructuring"
+      ]
+    },
+    {
+      "name": "prefer-exponentiation-operator",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-exponentiation-operator",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-exponentiation-operator"
+      ]
+    },
+    {
+      "name": "prefer-numeric-literals",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-numeric-literals",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-numeric-literals"
+      ]
+    },
+    {
+      "name": "prefer-object-spread",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-object-spread",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-object-spread"
+      ]
+    },
+    {
+      "name": "prefer-promise-reject-errors",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-promise-reject-errors",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-promise-reject-errors"
+      ]
+    },
+    {
+      "name": "prefer-regex-literals",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-regex-literals",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-regex-literals"
+      ]
+    },
+    {
+      "name": "prefer-rest-params",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-rest-params",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-rest-params"
+      ]
+    },
+    {
+      "name": "prefer-spread",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-spread",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/prefer-spread"
+      ]
+    },
+    {
+      "name": "prefer-template",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/prefer-template",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/prefer-template"
+      ]
+    },
+    {
+      "name": "preserve-caught-error",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/preserve-caught-error",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/preserve-caught-error"
+      ]
+    },
+    {
+      "name": "promise/always-return",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/always-return",
+      "recommended": true,
+      "eslintRules": [
+        "promise/always-return"
+      ]
+    },
+    {
+      "name": "promise/avoid-new",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/avoid-new",
+      "recommended": false,
+      "eslintRules": [
+        "promise/avoid-new"
+      ]
+    },
+    {
+      "name": "promise/catch-or-return",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/catch-or-return",
+      "recommended": true,
+      "eslintRules": [
+        "promise/catch-or-return"
+      ]
+    },
+    {
+      "name": "promise/no-callback-in-promise",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-callback-in-promise",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-callback-in-promise"
+      ]
+    },
+    {
+      "name": "promise/no-multiple-resolved",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-multiple-resolved",
+      "recommended": false,
+      "eslintRules": [
+        "promise/no-multiple-resolved"
+      ]
+    },
+    {
+      "name": "promise/no-nesting",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-nesting",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-nesting"
+      ]
+    },
+    {
+      "name": "promise/no-new-statics",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-new-statics",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-new-statics"
+      ]
+    },
+    {
+      "name": "promise/no-promise-in-callback",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-promise-in-callback",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-promise-in-callback"
+      ]
+    },
+    {
+      "name": "promise/no-return-in-finally",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-return-in-finally",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-return-in-finally"
+      ]
+    },
+    {
+      "name": "promise/no-return-wrap",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/no-return-wrap",
+      "recommended": true,
+      "eslintRules": [
+        "promise/no-return-wrap"
+      ]
+    },
+    {
+      "name": "promise/param-names",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/param-names",
+      "recommended": true,
+      "eslintRules": [
+        "promise/param-names"
+      ]
+    },
+    {
+      "name": "promise/prefer-await-to-then",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/prefer-await-to-then",
+      "recommended": false,
+      "eslintRules": [
+        "promise/prefer-await-to-then"
+      ]
+    },
+    {
+      "name": "promise/prefer-catch",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/prefer-catch",
+      "recommended": false,
+      "eslintRules": [
+        "promise/prefer-catch"
+      ]
+    },
+    {
+      "name": "promise/valid-params",
+      "category": "promise",
+      "url": "https://rslint.rs/rules/promise/valid-params",
+      "recommended": true,
+      "eslintRules": [
+        "promise/valid-params"
+      ]
+    },
+    {
+      "name": "radix",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/radix",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/radix"
+      ]
+    },
+    {
+      "name": "react-hooks/exhaustive-deps",
+      "category": "react-hooks",
+      "url": "https://rslint.rs/rules/react-hooks/exhaustive-deps",
+      "recommended": true,
+      "eslintRules": [
+        "react-hooks/exhaustive-deps"
+      ]
+    },
+    {
+      "name": "react-hooks/rules-of-hooks",
+      "category": "react-hooks",
+      "url": "https://rslint.rs/rules/react-hooks/rules-of-hooks",
+      "recommended": true,
+      "eslintRules": [
+        "react-hooks/rules-of-hooks"
+      ]
+    },
+    {
+      "name": "react/boolean-prop-naming",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/boolean-prop-naming",
+      "recommended": false,
+      "eslintRules": [
+        "react/boolean-prop-naming"
+      ]
+    },
+    {
+      "name": "react/button-has-type",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/button-has-type",
+      "recommended": false,
+      "eslintRules": [
+        "react/button-has-type"
+      ]
+    },
+    {
+      "name": "react/checked-requires-onchange-or-readonly",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/checked-requires-onchange-or-readonly",
+      "recommended": false,
+      "eslintRules": [
+        "react/checked-requires-onchange-or-readonly"
+      ]
+    },
+    {
+      "name": "react/destructuring-assignment",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/destructuring-assignment",
+      "recommended": false,
+      "eslintRules": [
+        "react/destructuring-assignment"
+      ]
+    },
+    {
+      "name": "react/display-name",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/display-name",
+      "recommended": true,
+      "eslintRules": [
+        "react/display-name"
+      ]
+    },
+    {
+      "name": "react/forbid-component-props",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forbid-component-props",
+      "recommended": false,
+      "eslintRules": [
+        "react/forbid-component-props"
+      ]
+    },
+    {
+      "name": "react/forbid-dom-props",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forbid-dom-props",
+      "recommended": false,
+      "eslintRules": [
+        "react/forbid-dom-props"
+      ]
+    },
+    {
+      "name": "react/forbid-elements",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forbid-elements",
+      "recommended": false,
+      "eslintRules": [
+        "react/forbid-elements"
+      ]
+    },
+    {
+      "name": "react/forbid-foreign-prop-types",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forbid-foreign-prop-types",
+      "recommended": false,
+      "eslintRules": [
+        "react/forbid-foreign-prop-types"
+      ]
+    },
+    {
+      "name": "react/forbid-prop-types",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forbid-prop-types",
+      "recommended": false,
+      "eslintRules": [
+        "react/forbid-prop-types"
+      ]
+    },
+    {
+      "name": "react/forward-ref-uses-ref",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/forward-ref-uses-ref",
+      "recommended": false,
+      "eslintRules": [
+        "react/forward-ref-uses-ref"
+      ]
+    },
+    {
+      "name": "react/jsx-boolean-value",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-boolean-value",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-boolean-value"
+      ]
+    },
+    {
+      "name": "react/jsx-child-element-spacing",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-child-element-spacing",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-child-element-spacing"
+      ]
+    },
+    {
+      "name": "react/jsx-closing-bracket-location",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-closing-bracket-location",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-closing-bracket-location"
+      ]
+    },
+    {
+      "name": "react/jsx-closing-tag-location",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-closing-tag-location",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-closing-tag-location"
+      ]
+    },
+    {
+      "name": "react/jsx-curly-brace-presence",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-curly-brace-presence",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-curly-brace-presence"
+      ]
+    },
+    {
+      "name": "react/jsx-curly-spacing",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-curly-spacing",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-curly-spacing"
+      ]
+    },
+    {
+      "name": "react/jsx-equals-spacing",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-equals-spacing",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-equals-spacing"
+      ]
+    },
+    {
+      "name": "react/jsx-filename-extension",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-filename-extension",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-filename-extension"
+      ]
+    },
+    {
+      "name": "react/jsx-first-prop-new-line",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-first-prop-new-line",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-first-prop-new-line"
+      ]
+    },
+    {
+      "name": "react/jsx-fragments",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-fragments",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-fragments"
+      ]
+    },
+    {
+      "name": "react/jsx-handler-names",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-handler-names",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-handler-names"
+      ]
+    },
+    {
+      "name": "react/jsx-indent",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-indent",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-indent"
+      ]
+    },
+    {
+      "name": "react/jsx-indent-props",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-indent-props",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-indent-props"
+      ]
+    },
+    {
+      "name": "react/jsx-key",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-key",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-key"
+      ]
+    },
+    {
+      "name": "react/jsx-max-depth",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-max-depth",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-max-depth"
+      ]
+    },
+    {
+      "name": "react/jsx-max-props-per-line",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-max-props-per-line",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-max-props-per-line"
+      ]
+    },
+    {
+      "name": "react/jsx-no-bind",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-bind",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-no-bind"
+      ]
+    },
+    {
+      "name": "react/jsx-no-comment-textnodes",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-comment-textnodes",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-comment-textnodes"
+      ]
+    },
+    {
+      "name": "react/jsx-no-duplicate-props",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-duplicate-props",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-duplicate-props"
+      ]
+    },
+    {
+      "name": "react/jsx-no-leaked-render",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-leaked-render",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-no-leaked-render"
+      ]
+    },
+    {
+      "name": "react/jsx-no-literals",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-literals",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-no-literals"
+      ]
+    },
+    {
+      "name": "react/jsx-no-script-url",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-script-url",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-no-script-url"
+      ]
+    },
+    {
+      "name": "react/jsx-no-target-blank",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-target-blank",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-target-blank"
+      ]
+    },
+    {
+      "name": "react/jsx-no-undef",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-no-undef",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-no-undef"
+      ]
+    },
+    {
+      "name": "react/jsx-pascal-case",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-pascal-case",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-pascal-case"
+      ]
+    },
+    {
+      "name": "react/jsx-props-no-multi-spaces",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-props-no-multi-spaces",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-props-no-multi-spaces"
+      ]
+    },
+    {
+      "name": "react/jsx-props-no-spread-multi",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-props-no-spread-multi",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-props-no-spread-multi"
+      ]
+    },
+    {
+      "name": "react/jsx-uses-react",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-uses-react",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-uses-react"
+      ]
+    },
+    {
+      "name": "react/jsx-uses-vars",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-uses-vars",
+      "recommended": true,
+      "eslintRules": [
+        "react/jsx-uses-vars"
+      ]
+    },
+    {
+      "name": "react/jsx-wrap-multilines",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/jsx-wrap-multilines",
+      "recommended": false,
+      "eslintRules": [
+        "react/jsx-wrap-multilines"
+      ]
+    },
+    {
+      "name": "react/no-access-state-in-setstate",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-access-state-in-setstate",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-access-state-in-setstate"
+      ]
+    },
+    {
+      "name": "react/no-array-index-key",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-array-index-key",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-array-index-key"
+      ]
+    },
+    {
+      "name": "react/no-children-prop",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-children-prop",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-children-prop"
+      ]
+    },
+    {
+      "name": "react/no-danger",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-danger",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-danger"
+      ]
+    },
+    {
+      "name": "react/no-danger-with-children",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-danger-with-children",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-danger-with-children"
+      ]
+    },
+    {
+      "name": "react/no-deprecated",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-deprecated",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-deprecated"
+      ]
+    },
+    {
+      "name": "react/no-did-mount-set-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-did-mount-set-state",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-did-mount-set-state"
+      ]
+    },
+    {
+      "name": "react/no-did-update-set-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-did-update-set-state",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-did-update-set-state"
+      ]
+    },
+    {
+      "name": "react/no-direct-mutation-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-direct-mutation-state",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-direct-mutation-state"
+      ]
+    },
+    {
+      "name": "react/no-find-dom-node",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-find-dom-node",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-find-dom-node"
+      ]
+    },
+    {
+      "name": "react/no-is-mounted",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-is-mounted",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-is-mounted"
+      ]
+    },
+    {
+      "name": "react/no-multi-comp",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-multi-comp",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-multi-comp"
+      ]
+    },
+    {
+      "name": "react/no-redundant-should-component-update",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-redundant-should-component-update",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-redundant-should-component-update"
+      ]
+    },
+    {
+      "name": "react/no-render-return-value",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-render-return-value",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-render-return-value"
+      ]
+    },
+    {
+      "name": "react/no-set-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-set-state",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-set-state"
+      ]
+    },
+    {
+      "name": "react/no-string-refs",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-string-refs",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-string-refs"
+      ]
+    },
+    {
+      "name": "react/no-this-in-sfc",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-this-in-sfc",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-this-in-sfc"
+      ]
+    },
+    {
+      "name": "react/no-typos",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-typos",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-typos"
+      ]
+    },
+    {
+      "name": "react/no-unescaped-entities",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unescaped-entities",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-unescaped-entities"
+      ]
+    },
+    {
+      "name": "react/no-unknown-property",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unknown-property",
+      "recommended": true,
+      "eslintRules": [
+        "react/no-unknown-property"
+      ]
+    },
+    {
+      "name": "react/no-unsafe",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unsafe",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-unsafe"
+      ]
+    },
+    {
+      "name": "react/no-unstable-nested-components",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unstable-nested-components",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-unstable-nested-components"
+      ]
+    },
+    {
+      "name": "react/no-unused-class-component-methods",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unused-class-component-methods",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-unused-class-component-methods"
+      ]
+    },
+    {
+      "name": "react/no-unused-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-unused-state",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-unused-state"
+      ]
+    },
+    {
+      "name": "react/no-will-update-set-state",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/no-will-update-set-state",
+      "recommended": false,
+      "eslintRules": [
+        "react/no-will-update-set-state"
+      ]
+    },
+    {
+      "name": "react/prefer-es6-class",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/prefer-es6-class",
+      "recommended": false,
+      "eslintRules": [
+        "react/prefer-es6-class"
+      ]
+    },
+    {
+      "name": "react/prefer-stateless-function",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/prefer-stateless-function",
+      "recommended": false,
+      "eslintRules": [
+        "react/prefer-stateless-function"
+      ]
+    },
+    {
+      "name": "react/react-in-jsx-scope",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/react-in-jsx-scope",
+      "recommended": true,
+      "eslintRules": [
+        "react/react-in-jsx-scope"
+      ]
+    },
+    {
+      "name": "react/require-optimization",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/require-optimization",
+      "recommended": false,
+      "eslintRules": [
+        "react/require-optimization"
+      ]
+    },
+    {
+      "name": "react/require-render-return",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/require-render-return",
+      "recommended": true,
+      "eslintRules": [
+        "react/require-render-return"
+      ]
+    },
+    {
+      "name": "react/self-closing-comp",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/self-closing-comp",
+      "recommended": false,
+      "eslintRules": [
+        "react/self-closing-comp"
+      ]
+    },
+    {
+      "name": "react/style-prop-object",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/style-prop-object",
+      "recommended": false,
+      "eslintRules": [
+        "react/style-prop-object"
+      ]
+    },
+    {
+      "name": "react/void-dom-elements-no-children",
+      "category": "react",
+      "url": "https://rslint.rs/rules/react/void-dom-elements-no-children",
+      "recommended": false,
+      "eslintRules": [
+        "react/void-dom-elements-no-children"
+      ]
+    },
+    {
+      "name": "require-atomic-updates",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/require-atomic-updates",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/require-atomic-updates"
+      ]
+    },
+    {
+      "name": "require-await",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/require-await",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/require-await"
+      ]
+    },
+    {
+      "name": "require-yield",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/require-yield",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/require-yield"
+      ]
+    },
+    {
+      "name": "rstest/no-commented-out-tests",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-commented-out-tests",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-commented-out-tests"
+      ]
+    },
+    {
+      "name": "rstest/no-conditional-expect",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-conditional-expect",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-conditional-expect"
+      ]
+    },
+    {
+      "name": "rstest/no-disabled-tests",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-disabled-tests",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-disabled-tests"
+      ]
+    },
+    {
+      "name": "rstest/no-identical-title",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-identical-title",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-identical-title"
+      ]
+    },
+    {
+      "name": "rstest/no-interpolation-in-snapshots",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-interpolation-in-snapshots",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-interpolation-in-snapshots"
+      ]
+    },
+    {
+      "name": "rstest/no-mocks-import",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/no-mocks-import",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/no-mocks-import"
+      ]
+    },
+    {
+      "name": "rstest/valid-title",
+      "category": "rstest",
+      "url": "https://rslint.rs/rules/rstest/valid-title",
+      "recommended": true,
+      "eslintRules": [
+        "rstest/valid-title"
+      ]
+    },
+    {
+      "name": "strict",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/strict",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/strict"
+      ]
+    },
+    {
+      "name": "symbol-description",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/symbol-description",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/symbol-description"
+      ]
+    },
+    {
+      "name": "unicode-bom",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/unicode-bom",
+      "recommended": false,
+      "eslintRules": [
+        "eslint/unicode-bom"
+      ]
+    },
+    {
+      "name": "unicorn/error-message",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/error-message",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/error-message"
+      ]
+    },
+    {
+      "name": "unicorn/filename-case",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/filename-case",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/filename-case"
+      ]
+    },
+    {
+      "name": "unicorn/new-for-builtins",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/new-for-builtins",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/new-for-builtins"
+      ]
+    },
+    {
+      "name": "unicorn/no-instanceof-builtins",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/no-instanceof-builtins",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-instanceof-builtins"
+      ]
+    },
+    {
+      "name": "unicorn/no-static-only-class",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/no-static-only-class",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-static-only-class"
+      ]
+    },
+    {
+      "name": "unicorn/no-thenable",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/no-thenable",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-thenable"
+      ]
+    },
+    {
+      "name": "unicorn/no-useless-switch-case",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/no-useless-switch-case",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/no-useless-switch-case"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-array-flat",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-array-flat",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-array-flat"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-array-flat-map",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-array-flat-map",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-array-flat-map"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-array-some",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-array-some",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-array-some"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-node-protocol",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-node-protocol",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-node-protocol"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-number-properties",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-number-properties",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-number-properties"
+      ]
+    },
+    {
+      "name": "unicorn/prefer-set-has",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/prefer-set-has",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/prefer-set-has"
+      ]
+    },
+    {
+      "name": "unicorn/require-array-join-separator",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/require-array-join-separator",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/require-array-join-separator"
+      ]
+    },
+    {
+      "name": "unicorn/require-number-to-fixed-digits-argument",
+      "category": "unicorn",
+      "url": "https://rslint.rs/rules/unicorn/require-number-to-fixed-digits-argument",
+      "recommended": true,
+      "eslintRules": [
+        "unicorn/require-number-to-fixed-digits-argument"
+      ]
+    },
+    {
+      "name": "use-isnan",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/use-isnan",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/use-isnan"
+      ]
+    },
+    {
+      "name": "valid-typeof",
+      "category": "eslint",
+      "url": "https://rslint.rs/rules/eslint/valid-typeof",
+      "recommended": true,
+      "eslintRules": [
+        "eslint/valid-typeof"
+      ]
+    }
+  ]
+}
