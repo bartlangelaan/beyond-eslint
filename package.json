@@ -10,18 +10,31 @@
   },
   "type": "module",
   "scripts": {
+    "build": "next build",
     "collect:biome": "node scripts/collect-biome-data.ts",
     "collect:eslint-plugins": "node scripts/collect-eslint-plugin-data.ts",
     "collect:oxlint": "node scripts/collect-oxlint-data.ts",
     "collect:rslint": "node scripts/collect-rslint-data.ts",
     "collect:ttsc": "node scripts/collect-ttsc-data.ts",
+    "dev": "next dev",
+    "start": "next start",
     "test": "node --test test/**/*.test.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@types/d3-scale": "4.0.9",
     "@types/node": "^26.2.0",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
     "execa": "^10.0.1",
     "p-limit": "^7.3.1",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@tanstack/charts": "0.11.1",
+    "d3-scale": "4.0.2",
+    "next": "16.3.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   }
 }
